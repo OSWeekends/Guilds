@@ -8,6 +8,8 @@ tecnología que nos motive y ayude a mejorar nuestras skills.
 Con esto OSW solo quiere fomentar el crear una comunidad más fuerte donde todo el mundo pueda
 sentirse dentro.
 
+Si quieres formar parte de él tan solo tienes que hacer un pull/request a este repositorio e incluir tu nombre al final.
+
 ##Formas de trabajo:
 Presencial: Se realizará con una periodicidad mensual o en su defecto durante cada OSW, dónde durante aproximadamente 30 -45 minutos el grupo completo expondrán dudas, se preparan alguna sesiones extra de uso de herramientas, conocimientos de buenas prácticas, resolución de dudas en común, comentar nuevos módulos, arquitecturas, algoritmia...
 Remoto: Mediante herramientas de gestión de proyectos (Taiga, Trello, ... ), Github y Slack. Se trabajará mediante pull/request revisados por la persona más avanzada en conocimientos del proyecto, Mentor u Organizador.
