@@ -28,6 +28,7 @@ En primera instancia y elaborando cosas básicas:
 En esta última parte incluir vuestro nombre e intereses.
 
 - José Antonio Palacios Ramírez - Python, js, ...
+- José Manuel Gallego Chamorro - Js & python (según necesidad de los grupos)
 
 
 
