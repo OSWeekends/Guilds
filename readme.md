@@ -29,6 +29,7 @@ En esta última parte incluir vuestro nombre e intereses.
 
 - José Antonio Palacios Ramírez - Python, js, ...
 - José Manuel Gallego Chamorro - Js & python (según necesidad de los grupos)
+- Yoel Macia Delgado - Javascript, Python, todo lo relacionado con Web...
 
 
 
