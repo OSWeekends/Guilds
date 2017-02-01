@@ -31,5 +31,5 @@ En esta última parte incluir vuestro nombre e intereses.
 - José Manuel Gallego Chamorro - Js & python (según necesidad de los grupos)
 - Yoel Macia Delgado - Javascript, Python, todo lo relacionado con Web...
 - Jorge Monzón Manzano - Js, Phyton.... 
-
+- Ignacio Villanueva Cabañés - Frontend (ahora con JS)
 
