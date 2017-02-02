@@ -36,5 +36,6 @@ En esta última parte incluir vuestro nombre e intereses.
 - Nuria Sanz (https://github.com/NuriaHill) - Python , JS, para dummies :)
 - Paul Hilligehekken - JS
 - Laetitia Carquet - JS, back y front
+- Ismael de Esteban - JS, Redux, GraphQL, Functional Programming. 
 
 
