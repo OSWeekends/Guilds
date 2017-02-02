@@ -33,4 +33,6 @@ En esta última parte incluir vuestro nombre e intereses.
 - Jorge Monzón Manzano - Js, Phyton.... 
 - Ignacio Villanueva Cabañés - Frontend (ahora con JS)
 - Felipe Martin ([@fmartingr](https://github.com/fmartingr)) - Python (o aprender cualquier lenguaje me vale si me dejais)
+- Nuria Sanz (https://github.com/NuriaHill) - Python , JS, para dummies :)
+
 
