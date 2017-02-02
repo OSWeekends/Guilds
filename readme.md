@@ -38,5 +38,5 @@ En esta última parte incluir vuestro nombre e intereses.
 - Laetitia Carquet - JS, back y front
 - Ismael de Esteban - JS, Redux, GraphQL, Functional Programming. 
 - Luis Miguel Alvarez Maidero - JS, Python
-
+- Carlos Bravo Bernal - JS, Magento 2, PHP
 
