@@ -39,4 +39,4 @@ En esta última parte incluir vuestro nombre e intereses.
 - Ismael de Esteban - JS, Redux, GraphQL, Functional Programming. 
 - Luis Miguel Alvarez Maidero - JS, Python
 - Carlos Bravo Bernal - JS, Magento 2, PHP
-
+- Estela Balboa ([@estelabalboa](https://github.com/estelabalboa)) Quiero aprender python y como dice Yoel todo lo relacionado con web, y lo que me dejéis! Tambien quiero manejar git con soltura, tarea más que pendiente.
