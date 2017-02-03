@@ -1,4 +1,4 @@
-#OSW Grupos de Estudio. 
+﻿#OSW Grupos de Estudio. 
 
 Los grupos de estudio de OSW son una forma única de aprender de forma autodidacta
 con un grupo de gente y amigos con los que a su vez lo pasarás bien. Nos organizaremos
@@ -39,4 +39,5 @@ En esta última parte incluir vuestro nombre e intereses.
 - Ismael de Esteban - JS, Redux, GraphQL, Functional Programming. 
 - Luis Miguel Alvarez Maidero - JS, Python
 - Carlos Bravo Bernal - JS, Magento 2, PHP
+- Leyla Vieira - UI/Front
 
