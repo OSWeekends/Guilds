@@ -1,4 +1,4 @@
-#OSW Grupos de Estudio. 
+﻿#OSW Grupos de Estudio. 
 
 Los grupos de estudio de OSW son una forma única de aprender de forma autodidacta
 con un grupo de gente y amigos con los que a su vez lo pasarás bien. Nos organizaremos
@@ -40,3 +40,4 @@ En esta última parte incluir vuestro nombre e intereses.
 - Luis Miguel Alvarez Maidero - JS, Python
 - Carlos Bravo Bernal - JS, Magento 2, PHP
 - Estela Balboa ([@estelabalboa](https://github.com/estelabalboa)) Quiero aprender python y como dice Yoel todo lo relacionado con web, y lo que me dejéis! Tambien quiero manejar git con soltura, tarea más que pendiente.
+- Leyla Vieira - UI/Front
