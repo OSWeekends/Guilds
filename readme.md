@@ -41,3 +41,4 @@ En esta última parte incluir vuestro nombre e intereses.
 - Carlos Bravo Bernal - JS, Magento 2, PHP
 - Estela Balboa ([@estelabalboa](https://github.com/estelabalboa)) Quiero aprender python y como dice Yoel todo lo relacionado con web, y lo que me dejéis! Tambien quiero manejar git con soltura, tarea más que pendiente.
 - Leyla Vieira - UI/Front
+- Luis fernando Jimenez -Js, quiero aprender todo sobre javascript y enfocarme en backend 
