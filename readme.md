@@ -42,3 +42,4 @@ En esta última parte incluir vuestro nombre e intereses.
 - Estela Balboa ([@estelabalboa](https://github.com/estelabalboa)) Quiero aprender python y como dice Yoel todo lo relacionado con web, y lo que me dejéis! Tambien quiero manejar git con soltura, tarea más que pendiente.
 - Leyla Vieira - UI/Front
 - Luis fernando Jimenez -Js, quiero aprender todo sobre javascript y enfocarme en backend 
+- Jesus Mendoza - JavaScript, un poco de front-end y un poco mas de back-end con Node.js
