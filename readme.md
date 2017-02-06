@@ -43,3 +43,4 @@ En esta última parte incluir vuestro nombre e intereses.
 - Leyla Vieira - UI/Front
 - Luis fernando Jimenez -Js, quiero aprender todo sobre javascript y enfocarme en backend 
 - Jesus Mendoza - JavaScript, un poco de front-end y un poco mas de back-end con Node.js
+- Borja Godoy Gago - Java Script, Web Components, Polymer, algo de Node y Firebase :)
