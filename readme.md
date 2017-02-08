@@ -55,7 +55,7 @@ Aplicación que lleve un registro de los proyectos disponibles, de la gente que
 esta en cada proyecto y si hay alguna necesidad en ese proyecto, Ranking de 
 proyectos ... 
 
-Votos: JP, 
+Votos: JP, JM,
 
 ### Web sobre "Tematica" 
 
@@ -63,13 +63,13 @@ Aplicación web con una api, front en algun framework (Angular, Polymer...) y
 con scrappers para rellenar, además aplicaciones de machine learning como
 predicciones o mejoras de uso.
 
-Votos: JP,    
+Votos: JP, JM,  
 
 ### Gestor de videojuegos, pelis y series.
 
 Tener tu backlog y saber si has prestado y a quien. Front, Back, Scrappers ...
 
-Votos:   
+Votos: 
 
 ### Script de añadir libros gratis de packt.
 
@@ -96,7 +96,7 @@ Yo tenía una idea de hacer algo open source que genere un blog estático así t
 
 Quería usar Webpack y Node.js para crear este proyecto pero estaría abierto a otras opciones si alguien está interesado
 
-Votos: JP,
+Votos: JP, JM,
 
 ### Programa de escritorio o web paracanvas y zoom infinito.
 
