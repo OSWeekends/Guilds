@@ -56,7 +56,7 @@ esta en cada proyecto y si hay alguna necesidad en ese proyecto, Ranking de
 proyectos ... 
 
 
-Votos: JP, JM,JM (otro diferente),LJ, LV, LC, JS
+Votos: JP, JM,JM (otro diferente),LJ, LV, LC, JS, CBB
 
 
 ### Web sobre "Tematica" 
@@ -65,13 +65,13 @@ Aplicación web con una api, front en algun framework (Angular, Polymer...) y
 con scrappers para rellenar, además aplicaciones de machine learning como
 predicciones o mejoras de uso.
 
-Votos: JP, JM, LJ, LC
+Votos: JP, JM, LJ, LC, CBB
 
 ### Gestor de videojuegos, pelis y series.
 
 Tener tu backlog y saber si has prestado y a quien. Front, Back, Scrappers ...
 
-Votos: LJ, LC
+Votos: LJ, LC, CBB
 
 ### Script de añadir libros gratis de packt.
 
