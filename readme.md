@@ -56,7 +56,7 @@ esta en cada proyecto y si hay alguna necesidad en ese proyecto, Ranking de
 proyectos ... 
 
 
-Votos: JP, JM,JM (otro diferente),LJ, LV, LC
+Votos: JP, JM,JM (otro diferente),LJ, LV, LC, JS
 
 
 ### Web sobre "Tematica" 
@@ -105,4 +105,4 @@ Votos: JP, JM,Josheriff, LJ, LC
 Escribir, dibujar y bocetar lo que necesites pero de forma sencilla sin capas
 ni herramientas difíciles de usar.
 
-Votos: 
+Votos: JS
