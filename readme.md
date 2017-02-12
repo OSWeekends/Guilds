@@ -56,7 +56,7 @@ esta en cada proyecto y si hay alguna necesidad en ese proyecto, Ranking de
 proyectos ... 
 
 
-Votos: JP, JM,JM (otro diferente),LJ, LV
+Votos: JP, JM,JM (otro diferente),LJ, LV, LC
 
 
 ### Web sobre "Tematica" 
@@ -65,13 +65,13 @@ Aplicación web con una api, front en algun framework (Angular, Polymer...) y
 con scrappers para rellenar, además aplicaciones de machine learning como
 predicciones o mejoras de uso.
 
-Votos: JP, JM, LJ,  
+Votos: JP, JM, LJ, LC
 
 ### Gestor de videojuegos, pelis y series.
 
 Tener tu backlog y saber si has prestado y a quien. Front, Back, Scrappers ...
 
-Votos: LJ,
+Votos: LJ, LC
 
 ### Script de añadir libros gratis de packt.
 
@@ -98,7 +98,7 @@ Yo tenía una idea de hacer algo open source que genere un blog estático así t
 
 Quería usar Webpack y Node.js para crear este proyecto pero estaría abierto a otras opciones si alguien está interesado
 
-Votos: JP, JM,Josheriff, LJ
+Votos: JP, JM,Josheriff, LJ, LC
 
 ### Programa de escritorio o web paracanvas y zoom infinito.
 
