@@ -45,7 +45,7 @@ En esta última parte incluir vuestro nombre e intereses.
 - Jesus Mendoza - JavaScript, un poco de front-end y un poco mas de back-end con Node.js
 - Borja Godoy Gago - Java Script, Web Components, Polymer, algo de Node y Firebase :)
 - Jose Sánchez Barrio ([@pepesb] (https://github.com/pepesb)) - Html 5, css3 y Python casi ná!
-
+- Ulises Gascón ([@ulisesGascon](https://github.com/ulisesGascon)) - Python, Js, Node.js...
 
 Podrás dar un voto a cada proyecto que te interese, escribiendo la primera letra de tu primer nombre y la primera letra de tu primer apellido
 ## Proyectos
