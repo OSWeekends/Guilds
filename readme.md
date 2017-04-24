@@ -43,7 +43,7 @@ Podrás dar un voto a cada proyecto que te interese, escribiendo la primera letr
 
 ## Proyectos
 
-### Web OS Weekends de Gestión
+### Web OS Weekends de Gestión (Kooper)
 Aplicación que lleve un registro de los proyectos disponibles, de la gente que
 esta en cada proyecto y si hay alguna necesidad en ese proyecto, Ranking de 
 proyectos ... 
