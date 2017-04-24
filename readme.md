@@ -37,7 +37,7 @@ En esta última parte incluir vuestro nombre e intereses.
 - Ulises Gascón ([@ulisesGascon](https://github.com/ulisesGascon)) - Python, Js, Node.js...
 - Bea Hernández ([@b](https://github.com/chucheria)) - Python, R (Data Science - Modelos, predicciones, etc.), CSS, JavaScript.
 
-_(Hemos borrado a gente que no tenemos localizada para reestructurar los grupos desde cero, así que contaremos con cualquiera que le apetezca apuntarse)
+_(Hemos borrado a gente que no tenemos localizada para reestructurar los grupos desde cero, así que contaremos con cualquiera que le apetezca apuntarse)_
 
 Podrás dar un voto a cada proyecto que te interese, escribiendo la primera letra de tu primer nombre y la primera letra de tu primer apellido
 
