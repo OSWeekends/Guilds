@@ -4,29 +4,29 @@
 
 ### ¿Qué es un guild (gremio)?
 
-Es un grupo de personas apasionadas que se junta entorno a un proyecto/s.
+Es un grupo de personas apasionadas que une en equipo entorno a un proyecto/s Open Source. 
 
-Colaboran juntos para lograr que el proyecto llegue a buen puerto.
+Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 
 
 ### ¿Qué se entiende por proyecto?
 
-Un proyecto es la puesta en marcha de una idea.
+Un proyecto es la puesta en marcha de una idea sobre la que trabaja un equipo. 
 
-Los proyectos que apoya OSW cuenta con recursos como repositorios, subdominios, cloud, etc...
+OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los equipos repositorios, subdominios, cloud... 
 
-Y como todo en OSW... deberán ser Open Source, legales, éticos y sin ánimo de lucro.
+Y como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
 ### ¿Qué roles tenemos ahora?
 
 **Contributors**
-- Aportan de diversas formas al proyecto: código, documentación, arte...
+- Forman parte del *Guild* y colaboran activamente en el desarrollo del proyecto aportando código, documentación, arte...
+- Tienen un rol fundamental a la hora de aportar ideas, impulso, asumir resposabilidades...
 
 **Leaders**
-- Además de ser contributor
-- Recluta al equipo
+- Además de tener las responsabilidades de un contributor, organizan y facilitan que el *Guild* se desarrolle y crezca
 - Promociona el proyecto
-- Motivan al *Guild*
+- Motivan a los miembros del *Guild*
 - Gestiona los recursos junto a la organización de OSW.
 
 
