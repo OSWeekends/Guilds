@@ -64,13 +64,6 @@ OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los 
 
 Y como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
-### Organización y herramientas de los Guilds  
-
-> Cada Guild se organiza de manera diferente con las respecto a las herramientas; el equipo decide qué utilizar y cómo. 
-Por lo general, cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
-
-Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
-
 
 ### ¿Cómo propongo un proyecto?
 
@@ -78,7 +71,16 @@ Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones
 
 El proceso es muy sencillo. [Contactanos](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
 
-### Proyectos propios
 
-A día de hoy Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https://github.com/OSWeekends), [GoblinDB](https://github.com/GoblinDBRocks) y [GingerCode](https://github.com/GingerCode)), cada una de ellas se organiza de forma independiente.
+## Recursos de los Guilds  
+
+> Cada Guild se organiza de manera diferente con las respecto a las herramientas; el equipo decide qué utilizar y cómo. 
+
+### Sesiones
+Al margen de todo esto podemos encontrar todas las sesiones de formacion imaprtidas para los Guilds
+
+### Herramientas
+Por lo general, cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
+
+Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
 
