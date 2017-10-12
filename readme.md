@@ -38,15 +38,15 @@ Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 
 > En OSW creemos que contribuir está al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡encuentra la tuya!.
 
-Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guíen.
+Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes abrir un issue en su repositorio principal y pedir que te guíen.
 
 ### Quiero liderar un Guild
 
-> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su guild hasta terminar el proyecto.
+> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su Guild hasta terminar el proyecto.
 
-Lo más sencillo es buscar un proyeto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido.
+Lo más sencillo es buscar un proyecto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido. 
 
-Desde la organización podemos ayudarte mucho a crear un buen guild y a gestionar recursos, [¡Contactanos!](../README.md#contactar-con-la-organización).
+Desde la organización podemos ayudarte mucho a crear un buen Guild y a gestionar recursos, [¡Contactanos!](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización).
 
 ### Guilds y miembros
 
@@ -62,12 +62,10 @@ Un proyecto es la puesta en marcha de una idea sobre la que trabaja un equipo.
 
 OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los equipos repositorios, subdominios, cloud... 
 
-Y como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
-
 
 ### ¿Cómo propongo un proyecto?
 
-> Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin ánimo de lucro.
+> Como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
 El proceso es muy sencillo. [Contactanos](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
 
@@ -77,10 +75,12 @@ El proceso es muy sencillo. [Contactanos](https://github.com/OSWeekends/Organiza
 > Cada Guild se organiza de manera diferente con las respecto a las herramientas; el equipo decide qué utilizar y cómo. 
 
 ### Sesiones
-Al margen de todo esto podemos encontrar todas las sesiones de formacion imaprtidas para los Guilds
+
+Al margen de todo esto podemos encontrar todas las sesiones de formacion impartidas para los Guilds *aquí*
 
 ### Herramientas
-Por lo general, cada proyecto corresponde a un repositorio de Github, pero en algunos casos puede ser que el proyecto original sea muy grande y deba organizarse en varios repositorios. En cuyo caso se organizarán a través de una organización de Github con sus propios repositorios.
+
+A cada proyecto le corresponde un repositorio. En algunos casos, puede ser que el proyecto original sea muy grande y deba organizarse en sus propios repositorios a través de una organización de Github. 
 
 Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
 
