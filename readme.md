@@ -11,11 +11,11 @@ Para ello aportamos:
 - La gamificación de su experiencia
 - Apoyo de mentoría y coaching
 
-Queremos hacer la entrada más sencilla al mundo Open Source a todo el mundo y facilitar que los contributors de hoy sean los líderes del futuro. 
+Queremos hacer que todo el mundo acceda más fácilmente a la comunidad Open Source y hacer posible que los contributors de hoy sean los líderes del futuro. 
 
 ## Guilds
 
-### ¿Qué es un Guild (gremio)?
+### ¿Qué es un Guild?
 
 Es un grupo de personas apasionadas que se unen en equipo entorno a un proyecto/s Open Source. 
 
@@ -29,16 +29,16 @@ Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 - Tienen un rol fundamental a la hora de aportar ideas, impulso, asumir resposabilidades...
 
 **Leaders**
-- Además de tener las responsabilidades de un contributor, organizan y facilitan que el *Guild* se desarrolle y crezca
+- Además de tener las responsabilidades de un contributor, organizan y facilitan que el Guild se desarrolle y crezca
 - Promociona el proyecto
 - Motivan a los miembros del Guild
-- Gestiona los recursos junto a la organización de OSW.
+- Gestionan los recursos junto a la organización de OSW.
 
 ### Quiero ser contributor de un Guild
 
-> En OSW creemos que contribuir está al alcance de todos y que no siempre tiene que ser a través de código. Existen muchas de contribuir, ¡encuentra la tuya!.
+> En OSW creemos que contribuir está al alcance de todo el mundo y que no siempre tiene que ser a través de código. Existen muchas formas de contribuir, ¡encuentra la tuya!.
 
-Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes abrir un issue en su repositorio principal y pedir que te guíen.
+Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro Guild. Si el proyecto carece de canal, siempre puedes abrir un issue en su repositorio principal y pedir que te guíen.
 
 ### Quiero liderar un Guild
 
@@ -50,37 +50,37 @@ Desde la organización podemos ayudarte mucho a crear un buen Guild y a gestiona
 
 ### Guilds y miembros
 
-Aquí podéis encontrar las listas actualizadas sobre:
-- Listado oficial de Guilds y miembros
+Aquí podéis encontrar:
+- Listado oficial actualizado de Guilds y miembros
 - Listado histórico de Guilds y miembros
 
 ## Proyectos
 
 ### ¿Qué se entiende por proyecto?
 
-Un proyecto es la puesta en marcha de una idea sobre la que trabaja un equipo. 
+Un proyecto es la puesta en marcha de una idea sobre la que trabaja un Guild. 
 
-OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los equipos repositorios, subdominios, cloud... 
+OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los Guilds repositorios, subdominios, cloud... 
 
 
 ### ¿Cómo propongo un proyecto?
 
 > Como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
-El proceso es muy sencillo. [Contactanos](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
+El proceso es muy sencillo. [Contáctanos](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización), te ayudaremos a difundirlo y te facilitaremos recursos (subdominios, máquinas (cloud), expertos, publicidad, etc..). ¿Muy fácil, no? :-)
 
 
 ## Recursos de los Guilds  
 
-> Cada Guild se organiza de manera diferente con las respecto a las herramientas; el equipo decide qué utilizar y cómo. 
+> Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo. 
 
 ### Sesiones
 
-Al margen de todo esto podemos encontrar todas las sesiones de formacion impartidas para los Guilds *aquí*
+Al margen de todo esto podemos encontrar todas las sesiones de formación impartidas para los Guilds *aquí*
 
 ### Herramientas
 
-A cada proyecto le corresponde un repositorio. En algunos casos, puede ser que el proyecto original sea muy grande y deba organizarse en sus propios repositorios a través de una organización de Github. 
+A cada proyecto le corresponde un repositorio. En algunos casos, si el proyecto original es muy grande, deberá organizarse en sus propios repositorios a través de una organización de Github. 
 
-Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde ponder organizarlo todo de una forma más efectiva. 
+Por lo general cada proyecto cuenta además con un canal de Slack ([invitaciones aquí](http://invitations-osweekends.herokuapp.com/)) donde poder organizarlo todo de una forma más efectiva. 
 
