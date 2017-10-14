@@ -1,1 +1,28 @@
 # Únete!
+
+## Únete a los Guilds
+
+**Bienvenid@ Guilder!!**
+
+Estás a un *pull request (PR)* de unirte a tu Guild favorito. Solo tienes que seguir los pasos...
+
+### Pasos para unirte
+
+- [ ] Únete al Slack de OSW. *Invitaciones aquí*
+- [ ] Únete al canal #guilds-y-proyectos y preséntate!
+- [ ] Prepara un *PR* actualizando la tabla de los Guilders con la info:
+    - Nombre *Nombre y apellido/s* 
+    - Github *Nick Github*
+    - Slack *Nick de Slack*
+    - Twitter *Usuario de Twitter*
+    - Guild? *¿A que Guild/s te gustaría unirte? (si no te decides aún por alguno, no escribas nada)* 
+    - Liderar? *¿Quieres liderar un Guild?*
+    - Experiencia? *¿Tienes experiencia en proyectos Open Source?*
+
+
+
+
+
+
+
+
