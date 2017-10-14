@@ -40,6 +40,8 @@ Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 
 Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro Guild. Si el proyecto carece de canal, siempre puedes abrir un issue en su repositorio principal y pedir que te guíen.
 
+**[¡únete!](unete.md)**
+
 ### Quiero liderar un Guild
 
 > En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su Guild hasta terminar el proyecto.
@@ -47,6 +49,8 @@ Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y habla
 Lo más sencillo es buscar un proyecto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido. 
 
 Desde la organización podemos ayudarte mucho a crear un buen Guild y a gestionar recursos, [¡Contactanos!](https://github.com/OSWeekends/Organizacion#contactar-con-la-organización).
+
+**[¡únete!](unete.md)**
 
 ### Guilds y miembros
 
