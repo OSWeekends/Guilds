@@ -18,11 +18,11 @@ Estás a un *pull request (PR)* de unirte a tu Guild favorito. Solo tienes que s
     - Guild? *¿A que Guild/s te gustaría unirte? (si no te decides aún por alguno, no escribas nada)* 
     - Liderar? *¿Quieres liderar un Guild?*
     - Experiencia? *¿Tienes experiencia en proyectos Open Source?*
+- [ ] Enviar el *PR*
 
-
-
-
-
-
-
-
+*Nota: si tienes dificultades para manejar un PR, por favor [abre un issue](https://github.com/OSWeekends/Guilds/issues/new) y te ayudaremos*
+    
+### Tabla de los Guilders
+Nombre | Github | Slack | Twitter | Guild? | Liderar? | Experiencia? 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Theba Gomez | [KoolTheba](https://github.com/KoolTheba) | KoolTheba | [KoolTheba](https://twitter.com/KoolTheba) | Welcome Guild | Si | Si 
