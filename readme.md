@@ -6,7 +6,7 @@ Para ello fomentamos la creación de Guilds, que son equipos especializados que 
 
 Para ello aportamos: 
 
-- Un plan de desarrollo individual y de equipo para mejorar habilidades técnicas, de gestión de proyectos y *soft skills* (comunicación, pensamiento creativo, team work, desarrollo personal y profesional...)
+- Un plan de desarrollo individual y de equipo para mejorar habilidades técnicas, de gestión de proyectos y *empowerment skills* (comunicación, pensamiento creativo, team work, desarrollo personal y profesional...)
 - Todos los recursos técnicos necesarios (cloud, repositorios, infraestructura...)
 - La gamificación de su experiencia
 - Apoyo de mentoría y coaching
