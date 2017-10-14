@@ -8,7 +8,7 @@ Estás a un *pull request (PR)* de unirte a tu Guild favorito. Solo tienes que s
 
 ### Pasos para unirte
 
-- [ ] Únete al Slack de OSW. *Invitaciones aquí*
+- [ ] Únete al Slack de OSW. *[Invitaciones aquí](http://slack.osweekends.com)*
 - [ ] Únete al canal #guilds-y-proyectos y preséntate!
 - [ ] Prepara un *PR* actualizando la tabla de los Guilders con la info:
     - Nombre *Nombre y apellido/s* 
