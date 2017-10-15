@@ -35,16 +35,17 @@ Esto es una lista temporal de los Guilds y su estado, así como personas de cont
 
 Nombre | Personas de contacto 
 ------------ | -------------
+Welcome Guild | Elena y pepe
+Kinton Guild | CodingCarlos
+Ginger Guild | Bifuer y Lilxelo
+Goblin Guild | Ulises y CodingCarlos
 
 ### Guilds Gestación
 
 Nombre | Personas de contacto 
 ------------ | -------------
-
-### Guilds Parados
-
-Nombre | Personas de contacto 
------------- | -------------
+Hardware (OHW) | Sebastien Retail
+Guild24 | Ulises
 
 
 
