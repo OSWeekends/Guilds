@@ -26,7 +26,7 @@ Estás a un *pull request (PR)* de unirte a tu Guild favorito. Solo tienes que s
 Nombre | Github | Slack | Twitter | Guild? | Liderar? | Experiencia? 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Theba Gomez | [KoolTheba](https://github.com/KoolTheba) | KoolTheba | [KoolTheba](https://twitter.com/KoolTheba) | Welcome Guild | Si | Si 
-
+Alberto Peralta | [peraltalberto](https://github.com/peraltalberto) | peraltalberto | [peraltalberto](https://twitter.com/peraltalberto) |  |  |  
 ## Guilds
 
 Esto es una lista temporal de los Guilds y su estado, así como personas de contacto.
