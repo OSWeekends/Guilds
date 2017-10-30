@@ -26,7 +26,7 @@ Estás a un *pull request (PR)* de unirte a tu Guild favorito. Solo tienes que s
 Nombre | Github | Slack | Twitter | Guild? | Liderar? | Experiencia? 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 Theba Gomez | [KoolTheba](https://github.com/KoolTheba) | KoolTheba | [KoolTheba](https://twitter.com/KoolTheba) | Welcome Guild | Si | Si 
-Alberto Peralta | [peraltalberto](https://github.com/peraltalberto) | peraltalberto | [peraltalberto](https://twitter.com/peraltalberto) |  |  |  
+Alberto Peralta | [peraltalberto](https://github.com/peraltalberto) | peraltalberto | [peraltalberto](https://twitter.com/peraltalberto) | | No | Si  
 Ismael Bakkali| [ismaelocaramelo](https://github.com/ismaelocaramelo) | ismaelo | [iBakkacha](https://twitter.com/iBakkacha) |  | Si | Si
 Sebastián Cabanas | [sediug](https://github.com/Sediug) | Sebastiancbvz | [Sebastiancbvz](https://twitter.com/Sebastiancbvz) | | No | Si 
 
