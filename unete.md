@@ -29,7 +29,7 @@ Theba Gomez | [KoolTheba](https://github.com/KoolTheba) | KoolTheba | [KoolTheba
 Alberto Peralta | [peraltalberto](https://github.com/peraltalberto) | peraltalberto | [peraltalberto](https://twitter.com/peraltalberto) | | No | Si  
 Ismael Bakkali| [ismaelocaramelo](https://github.com/ismaelocaramelo) | ismaelo | [iBakkacha](https://twitter.com/iBakkacha) |  | Si | Si
 Sebastián Cabanas | [sediug](https://github.com/Sediug) | Sebastiancbvz | [Sebastiancbvz](https://twitter.com/Sebastiancbvz) | | No | Si 
-
+Nuria Sanz | [NuriaHill](https://github.com/NuriaHill) | nuria | [Nuritje](https://twitter.com/Nuritje) | | No | No
 ## Guilds
 
 Esto es una lista temporal de los Guilds y su estado, así como personas de contacto.
