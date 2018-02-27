@@ -1,3 +1,0 @@
-## Sesiones
-
-Lorem ipsum...
