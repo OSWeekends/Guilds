@@ -1,3 +1,0 @@
-## Plan de desarrollo
-
-Lorem ipsum...
