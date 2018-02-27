@@ -178,12 +178,3 @@ Personalmente tengo cero idea de Rust 😎 (y con una startup épocas sin tiempo
 
 
 
-### Proyectos propios
-
-Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https://github.com/OSWeekends), [GoblinDB](https://github.com/GoblinDBRocks) y [GingerCode](https://github.com/GingerCode)), cada una de ellas se organiza de forma independiente.
-
-#### [Organización: OSWeekends](https://github.com/OSWeekends)
-
-TBD
-
-#### 
