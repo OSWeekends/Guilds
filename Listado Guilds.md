@@ -38,7 +38,10 @@
 
 ### Proyecto Goblin DB
 "An amazing, simple and fun database for humans"
-Proyecto innovador, en proceso de evolución, en la que vamos soltando nuestra creatividad y pasando un buen rato. Además funciona bastante bien como caché o para temas de scraping (para no abusar de hacer demasiadas peticiones a un endpoint puedes salvar los resultados en goblin y la refrescar cada cierto tiempo). Es la base de datos GoblinDB. Está en proceso de salir a producción con la versión 13, con un montón de cosas muy chulas. Hemos resuelto muchos de sus problemas de las versiones menores anteriores y está casi lista. 
+
+Proyecto innovador, en proceso de evolución, en la que vamos soltando nuestra creatividad y pasando un buen rato. Además funciona bastante bien como caché o para temas de scraping (para no abusar de hacer demasiadas peticiones a un endpoint puedes salvar los resultados en goblin y la refrescar cada cierto tiempo). 
+
+Está en proceso de salir a producción con la versión 13, con un montón de cosas muy chulas. Hemos resuelto muchos de sus problemas de las versiones menores anteriores y está casi lista. 
 
 **Guilders** 
 - @Sebastiancbvz - líder
@@ -75,11 +78,9 @@ Líderes:
 - Back @Jacintoj
 - Mentor @jbaumann
 
-Manera de trabajo basada en issues - GitHub
-
-Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript).
-
-Canal de Slack > #proyecto_rol_gaming
+- Manera de trabajo basada en issues, milestones... - GitHub
+- Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript).
+- Canal de Slack > #proyecto_rol_gaming
 
 **Guilders (usuario Slack)**  
 - @Josheriff
