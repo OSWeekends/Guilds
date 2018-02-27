@@ -1,3 +1,0 @@
-## Guilds Data
-
-Lorem ipsum...
