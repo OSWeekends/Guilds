@@ -63,8 +63,9 @@ De momento, clickea en **[Quiero ser Guilder](http://osweekends.com/guilds.oswee
 Un proyecto es la puesta en marcha de una idea sobre la que trabaja un Guild. 
 OSW, al impulsar y apoyar este tipo de proyectos, pone a la disposición de los Guilds repositorios, subdominios, cloud...y muchos otros recursos!
 
+**REVISA EL [LISTADO](https://github.com/OSWeekends/Guilds/blob/master/Listado%20Guilds.md) DE NUESTROS GUILDS PARA UNIRTE!** 
 
-### ¿Cómo propongo un proyecto?
+### ¿Y cómo propongo un proyecto?
 
 > Como todo en OSW, los proyectos son Open Source, legales, éticos y sin ánimo de lucro.
 
