@@ -10,6 +10,31 @@
 ## Wild South Guild
 ### Goku
 ### Ginger Code 
+"Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!
+
+- [Organización: GingerCode](https://github.com/GingerCode)
+- [Web](http://gingercode.org)
+- Canal de Slack: #proyecto-ginger-code
+- Guild Leader/s: 
+	- [@Bifuer](https://github.com/bifuer)
+	- [@Josheriff](https://github.com/Josheriff)
+	- [@Lilxelo](https://github.com/lilxelo)
+	- [@codingCarlos](https://github.com/codingCarlos)
+	- [@UlisesGascon](https://github.com/UlisesGascon)
+- Guild Members (Contributors):
+	- [@sergormo](https://github.com/sergormo)
+	- [@LeylaVieira](https://github.com/LeylaVieira)
+	- [@ancoar](https://github.com/ancoar)
+	- [@roseveltBarahona](https://github.com/roseveltBarahona)
+- Tecnología: JS, Nodejs, HTML5, CSS3, Node.js, Electron, Pillarsjs...
+- Estado del proyecto: Funcionando, en desarrollo
+- Repositorios:
+	- [GingerCode/gingercode.org](https://github.com/GingerCode/gingercode.org), Landing informativa y demo del proyecto.
+	- [GingerCode/Ejercicios](https://github.com/GingerCode/Ejercicios), Ejercicios para aprender a programar con Ginger! :-)
+	- [GingerCode/GingerParser](https://github.com/GingerCode/GingerParser), Core de GingerCode, disponible en NPM.
+	- [GingerCode/Desktop-Client](https://github.com/GingerCode/Desktop-Client), GingerCode Desktop aplications
+	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
+
 
 ### Proyecto Goblin DB
 "An amazing, simple and fun database for humans"
@@ -27,8 +52,7 @@ Proyecto innovador, en proceso de evolución, en la que vamos soltando nuestra c
 
 Necesidades de colaboración: no, pero incorporación libre para próximas versiones. Preguntar a @Sebastiancbvz por Slack
 
-[Organización: GoblinDB](https://github.com/GoblinDBRocks)
-
+- [Organización: GoblinDB](https://github.com/GoblinDBRocks)
 - [Web](http://goblindb.org)
 - Canal de Slack: **#proyecto-goblindb**
 - Tecnología: JS, Nodejs...
@@ -161,29 +185,4 @@ Open Source Weekends cuenta con 3 organizaciones en Github ([OSWeekends](https:/
 
 TBD
 
-#### [Organización: GingerCode](https://github.com/GingerCode)
-
-Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!
-
-- [Web](http://gingercode.org)
-- Canal de Slack: #proyecto-ginger-code
-- Guild Leader/s: 
-	- [@Bifuer](https://github.com/bifuer)
-	- [@Josheriff](https://github.com/Josheriff)
-	- [@Lilxelo](https://github.com/lilxelo)
-	- [@codingCarlos](https://github.com/codingCarlos)
-	- [@UlisesGascon](https://github.com/UlisesGascon)
-- Guild Members (Contributors):
-	- [@sergormo](https://github.com/sergormo)
-	- [@LeylaVieira](https://github.com/LeylaVieira)
-	- [@ancoar](https://github.com/ancoar)
-	- [@roseveltBarahona](https://github.com/roseveltBarahona)
-- Tecnología: JS, Nodejs, HTML5, CSS3, Node.js, Electron, Pillarsjs...
-- Estado del proyecto: Funcionando, en desarrollo
-- Repositorios:
-	- [GingerCode/gingercode.org](https://github.com/GingerCode/gingercode.org), Landing informativa y demo del proyecto.
-	- [GingerCode/Ejercicios](https://github.com/GingerCode/Ejercicios), Ejercicios para aprender a programar con Ginger! :-)
-	- [GingerCode/GingerParser](https://github.com/GingerCode/GingerParser), Core de GingerCode, disponible en NPM.
-	- [GingerCode/Desktop-Client](https://github.com/GingerCode/Desktop-Client), GingerCode Desktop aplications
-	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
-
+#### 
