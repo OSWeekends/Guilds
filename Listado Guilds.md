@@ -43,16 +43,19 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 ### Proyecto Juego de rol on-line Open Source
 
 Crear un tablero interactivo, con tirada de dados, chat, sonido…
+El proyecto está sin empezar: fase pre-planning. Bocetado por @Tuerto.
 
-El proyecto está sin empezar: fase pre-pranning. Bocetado por @Tuerto.
-
-Líderes: general @Josheriff, líder de front @Vickysolo, back @Jacintoj, mentor @jbaumann
+Líderes: 
+- General @Josheriff 
+- Líder de front @Vickysolo 
+- Back @Jacintoj
+- Mentor @jbaumann
 
 Manera de trabajo basada en issues - GitHub
 
-Tecnologías: Back>node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript)
+Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript).
 
-Canal de Slack > proyecto_rol_gaming
+Canal de Slack > #proyecto_rol_gaming
 
 **Guilders (usuario Slack)**  
 - @Josheriff
