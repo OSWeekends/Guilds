@@ -31,6 +31,7 @@ Ismael Bakkali| [ismaelocaramelo](https://github.com/ismaelocaramelo) | ismaelo 
 Sebastián Cabanas | [sediug](https://github.com/Sediug) | Sebastiancbvz | [Sebastiancbvz](https://twitter.com/Sebastiancbvz) | | No | Si 
 Nuria Sanz | [NuriaHill](https://github.com/NuriaHill) | nuria | [Nuritje](https://twitter.com/Nuritje) | | No | No
 José R. Alonso | [josealonso](https://github.com/josealonso) | joserramon | [jose4linux](https://twitter.com/jose4linux) | | No | No
+Abdallah Abedraba | [aabedraba](https://github.com/aabedraba) | aabedraba | [aabedraba](https://twitter.com/aabedraba) | | Sí | Nos
 ## Guilds
 
 Esto es una lista temporal de los Guilds y su estado, así como personas de contacto.
