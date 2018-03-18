@@ -1,0 +1,27 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Rolgame Guild",
+    "motto" : "Proyecto para creacion de partidas online",
+    "projects" : [ 
+        {
+            "name" : "Rolgame web",
+            "motto" : "Proyecto para creacion de partidas online",
+            "stack" : [ 
+                "nodejs", 
+                "javascript", 
+                "pillars", 
+                "VueJs",
+                "Phaser",
+                "MongoDB",
+                "Goblin"
+            ],
+            "wanted" : [ 
+                "Full-stack",
+                "Front-end",
+                "Back-end"
+            ],
+            "status" : 0,
+            "repo" : ""
+        }
+    ]
+}
