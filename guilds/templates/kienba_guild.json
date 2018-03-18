@@ -2,6 +2,17 @@
     "flag" : "metaguil.png",
     "name" : "Kienba",
     "motto" : "App web para coger turnos y hacer preguntas al profesor o profesora/conferenciate/organizadora de eventos",
+    "readme": "https://github.com/OSWeekends/kienba/blob/master/README.md",
+    "guilders": [
+        "Moni Aguado",
+        "Aida Adalaber",
+        "Claudia",
+        "missmay",
+        "abelespana",
+        "rubenmdev",
+        "Jorge Baumann",
+        "Carlos Azaustre"
+    ],
     "projects" : [
         {
             "name" : "Kienba",
@@ -15,10 +26,10 @@
                 "firebase"
             ],
             "wanted" : [
-                "Se busca diseñorador/a "
+                "Se busca diseñador/a "
             ],
             "status" : 0,
-            "repo" : "https://..."
+            "repo" : "https://github.com/OSWeekends/kienba/"
         }
     ]
 }
