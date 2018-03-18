@@ -1,0 +1,24 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Kienba",
+    "motto" : "App web para coger turnos y hacer preguntas al profesor o profesora/conferenciate/organizadora de eventos",
+    "projects" : [
+        {
+            "name" : "Kienba",
+            "motto" : "La app que te ayuda a interactuar con tus alumnos o asistentes",
+            "stack" : [
+                "nodejs",
+                "javascript",
+                "html",
+                "css",
+                "vue",
+                "firebase"
+            ],
+            "wanted" : [
+                "Se busca diseñorador/a "
+            ],
+            "status" : 0,
+            "repo" : "https://..."
+        }
+    ]
+}
