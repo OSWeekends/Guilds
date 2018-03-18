@@ -1,0 +1,18 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "FormulaUC3M",
+    "motto" : "Proyectos del equipo Formula UC3M relacionados con el monoplaza de competición",
+    "projects" : [ 
+        {
+            "name" : "Telemetría para los sensores del monoplaza",
+            "motto" : "Proyecto para desarrollo de telemetría en tiempo real a través de la nube",
+            "stack" : [ 
+            ],
+            "wanted" : [ 
+                "Se busca de todo: arduino, front para pintar los datos de la telemetría, back"
+            ],
+            "status" : 0,
+            "repo" : "https://github.com/OSWeekends/formula-uc3m.git"
+        }
+    ]
+}
