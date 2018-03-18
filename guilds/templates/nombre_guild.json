@@ -1,8 +1,7 @@
 {
     "flag" : "metaguil.png",
     "name" : "Metaguild",
-    "motto" : "Descripción de la guild...",
-    "readme" : "https://...enlace al readme en github",
+    "description" : "Define lo que hace tu guild...",
     "projects" : [ 
         {
             "name" : "Guilds web",
