@@ -1,0 +1,21 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Educación para todos",
+    "motto" : "Esta Guild busca hacer herramientas para acercar un aprendizaje más tecnológico a los más pequeños",
+    "projects" : [ 
+        {
+            "name" : "Read for kids",
+            "motto" : "La aplicación con la que aprenderan a leer tus hijos",
+            "stack" : [ 
+                "Ionic",
+                "Pillars",
+                "Mongo"
+            ],
+            "wanted" : [ 
+                "Se buscan diseñadores, Frontend y Backends, logopedas, profesores"
+            ],
+            "status" : 0,
+            "repo" : "https://..."
+        }
+    ]
+}
