@@ -1,0 +1,23 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Metaguild",
+    "motto" : "Descripción de la guild...",
+    "readme" : "https://...enlace al readme en github",
+    "projects" : [ 
+        {
+            "name" : "Guilds web",
+            "motto" : "La web de OSW donde puedes liearte tu mism@ ;)",
+            "stack" : [ 
+                "nodejs", 
+                "javascript", 
+                "pillars", 
+                "passport"
+            ],
+            "wanted" : [ 
+                "Se busca..."
+            ],
+            "status" : 0,
+            "repo" : "https://..."
+        }
+    ]
+}
