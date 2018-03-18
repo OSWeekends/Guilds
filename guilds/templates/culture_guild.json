@@ -1,0 +1,30 @@
+{
+    "flag" : "nodefinida",
+    "name" : "Culture Guild",
+    "motto" : "Guild dedicada a la cultura; leáse música, teatro, lectura, .... Realizar proyectos Open Source en el ámbito de la cultura.",
+    "readme" : "https://...", // Enlace a readme de la guild en github
+    "guilders" : [ 
+      "Yoel Macia",
+      "Jorge Urosa",
+      "Pablo Carmona",
+      "Chelo Quilón"
+    ],
+    "projects" : [ 
+        {
+            "name" : "Jam Project",
+            "motto" : "Queremos solucionar la falta de información actual en relación a las Jams en Madrid en primer lugar. Y ya podrá ir creciendo más y abarcar otros ámbitos de la cultura.",
+            "stack" : [ // Lista de tecnologías, aparecerán como tags
+                "nodejs", 
+                "javascript", 
+                "pillars", 
+                "vue.js",
+                "mongodb"
+            ],
+            "wanted" : [ 
+                "Músicos"
+            ],
+            "status" : 0,          // Hay que definir los estados y ponerle un iconcito
+            "repo" : "https://..." // El repo en github
+        }
+    ]
+}
