@@ -5,16 +5,17 @@
     "projects" : [ 
         {
             "name" : "Goblin DB",
-            "motto" : "An amazing, simple and fun database for humans",
+            "motto" : "An amazing, simple and fun database for humans.",
             "stack" : [ 
-                "json", 
+                "json",
                 "javascript"
             ],
             "wanted" : [ 
-                "Se busca..."
+                "Ahora mismo no necesitamos más gente, pero si alguien quiere unirse trabajo no le va a faltar ;)!"
             ],
-            "status" : "En Desarrollo",
-            "repo" : "https://github.com/GoblinDBRocks"
+            "status" : "Estable. Está muy cerquita de la Versión 1.0. La que será la primera versión totalmente lista para producción. Hay ya unas cuantas ideas chulas para la versión 2.",
+            "repo" : "https://github.com/GoblinDBRocks",
+            "img": "https://github.com/GoblinDBRocks/Art/blob/master/svg/goblin_db_logo-02.svg"
         }
     ],
     "projects" : [ 
