@@ -9,7 +9,29 @@
             "stack" : [ 
             ],
             "wanted" : [ 
-                "Se busca de todo: arduino, front para pintar los datos de la telemetría, back"
+                "Se busca de todo: raspberry-pi, front para pintar los datos de la telemetría, back"
+            ],
+            "status" : 0,
+            "repo" : "https://github.com/OSWeekends/formula-uc3m.git"
+        },
+        {
+            "name" : "Página web coorporativa",
+            "motto" : "Mejora y optimización de la página web coorporativa",
+            "stack" : [ 
+            ],
+            "wanted" : [ 
+                "Se busca de todo: front y back"
+            ],
+            "status" : 0,
+            "repo" : "https://github.com/OSWeekends/formula-uc3m.git"
+        },
+        {
+            "name" : "Busqueda patrocinadores",
+            "motto" : "Busqueda de patrocinadores para cualquier tipo de ayuda, desde económicos hasta patrocinio en especie (dispositivos electronicos, ser",
+            "stack" : [ 
+            ],
+            "wanted" : [ 
+                "Se busca de todo"
             ],
             "status" : 0,
             "repo" : "https://github.com/OSWeekends/formula-uc3m.git"
