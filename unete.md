@@ -32,6 +32,7 @@ Sebastián Cabanas | [sediug](https://github.com/Sediug) | Sebastiancbvz | [Seba
 Nuria Sanz | [NuriaHill](https://github.com/NuriaHill) | nuria | [Nuritje](https://twitter.com/Nuritje) | | No | No
 José R. Alonso | [josealonso](https://github.com/josealonso) | joserramon | [jose4linux](https://twitter.com/jose4linux) | | No | No
 Abdallah Abedraba | [aabedraba](https://github.com/aabedraba) | aabedraba | [aabedraba](https://twitter.com/aabedraba) | | Sí | Nos
+Carlos Azaustre | [carlosazaustre](https://github.com/carlosazaustre) | carlosazaustre | [carlosazaustre](https://twitter.com/carlosazaustre) | | No | No
 ## Guilds
 
 Esto es una lista temporal de los Guilds y su estado, así como personas de contacto.
