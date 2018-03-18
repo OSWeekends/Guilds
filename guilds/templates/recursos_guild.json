@@ -1,0 +1,25 @@
+{
+    "flag" : "nodefinida",
+    "name" : "recursos.osweekends.com",
+    "motto" : "Gestión de cosas alucinantes que encontramos en internet ",
+    "readme" : "https://github.com/OSWeekends/recursos.osweekends.com/blob/master/README.md", // Enlace a readme de la guild en github
+    "guilders" : [      
+      "Jorge Urosa"     
+    ],
+    "projects" : [ 
+        {
+            "name" : "Recursos OSW",
+            "motto" : "",
+            "stack" : [ // Lista de tecnologías, aparecerán como tags
+                "nodejs",                                
+                "mongodb",
+                "angular"
+            ],
+            "wanted" : [ 
+                "Todos los perfiles"
+            ],
+            "status" : 0,          // Hay que definir los estados y ponerle un iconcito
+            "repo" : "https://github.com/OSWeekends/recursos.osweekends.com" // El repo en github
+        }
+    ]
+}
