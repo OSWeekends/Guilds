@@ -1,0 +1,37 @@
+{
+    "flag" : "metaguil.png",
+    "name" : "Wild South Guild",
+    "motto" : "Este guild apoyará y continuará proyectos existentes",
+    "projects" : [ 
+        {
+            "name" : "Goblin DB",
+            "motto" : "An amazing, simple and fun database for humans",
+            "stack" : [ 
+                "json", 
+                "javascript"
+            ],
+            "wanted" : [ 
+                "Se busca..."
+            ],
+            "status" : "En Desarrollo",
+            "repo" : "https://github.com/GoblinDBRocks"
+        }
+    ],
+    "projects" : [ 
+        {
+            "name" : "GingerCode",
+            "motto" : "Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!",
+            "stack" : [ 
+                "json", 
+                "javascript"
+            ],
+            "wanted" : [ 
+                "Diseño",
+                "UX",
+                "Tutoriales"
+            ],
+            "status" : "Estable",
+            "repo" : "https://github.com/GingerCode"
+        }
+    ]
+}
