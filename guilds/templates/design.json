@@ -1,0 +1,30 @@
+{
+    "flag" : "designguild.png",
+    "name" : "Design Guild",
+    "motto" : "Making your stuff usable since 2018",
+    "projects" : [ 
+        
+        {
+            "name" : "landing template for guilds",
+            "motto" : "the only landing page template you'll ever need to kickstart your stuff <3",
+            "stack" : [ 
+                "HTML5",
+                "CSS3",
+                "vanilla JS",
+                "pencils",
+                "paper",
+                "love"
+            ],
+            
+            "wanted" : [ 
+                "leaders de guilds que necesiten explicar sus proyectos, difundirlos, mejorar su usabilidad o gifs de gatetes"
+            ],
+            
+            "status" : 0,
+            
+            "repo" : "https://github.com/OSWeekends/vitruvius"
+        }
+        
+    ]
+    
+}
