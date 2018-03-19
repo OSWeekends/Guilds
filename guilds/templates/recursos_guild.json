@@ -13,7 +13,7 @@
             "stack" : [ // Lista de tecnologías, aparecerán como tags
                 "nodejs",                                
                 "mongodb",
-                "angular"
+                "vue"
             ],
             "wanted" : [ 
                 "Todos los perfiles"
