@@ -1,0 +1,22 @@
+{
+    "flag" : ,
+    "name" : "Peludos Guild",
+    "motto" : "Ayudemos a salvar peludos",
+    "projects" : [ 
+        {
+            "name" : "Animals web",
+            "motto" : "Proyecto ayudar a animales abandonados. Una parte consistirá en la ubicación de animales perdidos y encontrados, acompañada de una ficha con foto y datos y otra en un buscador de animales para adoptar",
+            "stack" : [ 
+                "Por definir"
+            ],
+            "wanted" : [ 
+				"Design & UX",
+                "Full-stack",
+                "Front-end",
+                "Back-end"
+            ],
+            "status" : 0,
+            "repo" : ""
+        }
+    ]
+}
