@@ -216,9 +216,9 @@ Mentor: @Carlos Azaustre
 
 Canal de Slack: **#proyectokienba_adalab**
 
-## Fórmula U3CM Guild
+## Fórmula UC3M Guild
 
-### Proyecto de telemetría para coche de carreras Fórmula 3, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid 
+### Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid 
 
 > Mira toda la info en su repo!  🥇 
 
