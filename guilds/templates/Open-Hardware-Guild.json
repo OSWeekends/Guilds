@@ -5,7 +5,7 @@
     "projects" : [ 
         {
             "name" : "Miniestaciones Domésticas Calidad del Aire",
-            "motto" : "Mide la calidad del aire de tu casa."
+            "motto" : "Mide la calidad del aire de tu casa.",
             "stack" : [ 
                 "Por definir"
             ],
