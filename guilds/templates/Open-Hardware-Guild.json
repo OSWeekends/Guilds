@@ -1,0 +1,22 @@
+{
+    "flag" : ,
+    "name" : "Open Hardware Guild",
+    "motto" : "Open your Mind & Do It with Hardware",
+    "projects" : [ 
+        {
+            "name" : "Miniestaciones Domésticas Calidad del Aire",
+            "motto" : "Mide la calidad del aire de tu casa."
+            "stack" : [ 
+                "Por definir"
+            ],
+            "wanted" : [ 
+				        "Design & UX",
+                "Hardware & Electrónica (componentes, Arduino, Raspberry)",
+                "Front-end (mostrar resultados)",
+                "Back-end (guardar mediciones)"
+            ],
+            "status" : 0,
+            "repo" : ""
+        }
+    ]
+}
