@@ -18,26 +18,9 @@ Queremos que los Guilders aprendan con mucha práctica, ejemplos reales y mentor
 
 **REFLECT**: con feedback por parte de los mentores y preguntas o casos de estudio para reflexionar
 
-## Sesiones
-Taller01_Noviembre 2017: generación de ideas con valor para los usuarios y cómo venderlas. 
-
-Taller02_Enero 2018: cómo arrancar un proyecto desde cero con planteamientos ágiles. 
-
-Taller03_Febrero 2018: 
-
-*Hackaton* _Marzo 2018_: Taller04
-
-Taller05_Abril 2018: 
-
-Taller06_Mayo 2018: 
-
-*Hackaton* _Junio 2018_: Taller07
-
-Taller08: cierre año OSW Guilds
-
-Así que vamos a dividir la formación de este año en las típicas fases que necesitamos para hacer un proyecto realidad.
-
 ## Fases:
+Hemos dividido la formación de este año 2017/2018 en las típicas fases que necesitamos para hacer un proyecto realidad.
+
 
 ### Fase 1: ¿De que va todo esto?
 **Duración 120 minutos**
