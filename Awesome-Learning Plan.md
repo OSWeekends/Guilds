@@ -73,25 +73,12 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 **Taller *Prototipa, no la cagues*, by Ivo Vilches** 
 > [Guía de trabajo](https://osweekends.slack.com/files/U32RB6J65/FAARTL7T2/prototyping_osw)
 
-**Domingo 18 (11:00/13:30)-> tiempo de arrancar el Guild! Meeting de equipo con Mentores (Ulises, Borja Godoy, Baumann, Teba**
 
-### Fase 5 (Abril): 
+### Fase 5: Esto de hacer proyectos mola y el equipo ya es capaz de planificarse, ¿qué necesito según los roles de Scrum, tener en cuenta? ¿cómo se hace cultura? ¿cómo funciona como un equipo auto-gestionado?  
 
 
-Esto de hacer proyectos mola, pero estoy solo y necesito más gente. ¿Como recluto y mantengo el talento?
-
-- Engancha y mantén a tu equipo
 - Cultura de equipo: lo óptimo para que la motivación exista!
-- Mi equipo es un Agile Team! SCRUM básico para Guilders 
-**Duración 120 minutos**
-
-**Temática Teorica (75-90 min.) con @KoolTheba:**
-- Cómo construir una estrategia a largo plazo
-- Habilidades Organizativas: tiempo, recursos, objetivos y desarrollo de proyecto
-- Toma de decisiones: qué y cómo decido cuando tengo equipo
-
-**Temática Práctica (30-45 min) con @UlisesGascon:**
-- Asignación de tareas, followups, delegar, calendarios, Slack y demás por @ulisesGascon 
+- Mi equipo es un equipo auto-organizado!
 
 ### Fase 6 (Mayo - Hackathon): Liderar un Guild ha sido una experiencia genial y me molaria que fuera algo más que un hobbie... ¿Como puedo rentalibilizar todo esto profesionalmente?
 
