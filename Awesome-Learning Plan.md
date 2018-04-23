@@ -38,14 +38,13 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 > [Guía de trabajo](http://slides.com/tebagomez/oswguilds_arrancar-un-proyecto-desde-cero)
 
 
-### Fase 3 (FEB): Ya hemos aterrizado la idea... pero necesito que el mundo lo sepa... ¿Como se entera el mundo de lo que hago?
-**Duración 120 minutos**
+### Fase 3: Ya hemos aterrizado la idea... pero necesito que el mundo lo sepa... ¿cómo se entera el mundo de lo que hago?
+**Taller 3 Febrero 2018** ***"Comunicar tus ideas como un auténtic@ Guilder"***
 
-**Temática Teorica (60 min.) con @KoolTheba:**
 - Habilidades de Comunicación: la importancia de transmitir correctamente lo necesario.
+- Presentar y promocionar tu idea. Hacer presentaciones y pitchear bien
 
-**Temática Práctica (60 min) con @UlisesGascon:**
-- Presentar y promocionar tu idea. Hacer presentaciones y pitchear bien con Ulises Gascon (1h)
+> [Guía de trabajo](http://slides.com/tebagomez/oswguilds_arrancar-un-proyecto-desde-cero-4) 
 
 **Notas**
 - En Marzo empezamos con las microcharlas de 15 minutos...
