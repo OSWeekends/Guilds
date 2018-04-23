@@ -16,7 +16,7 @@ Queremos que los Guilders aprendan con mucha práctica, ejemplos reales y mentor
 
 **REFLECT**: con feedback por parte de los mentores y preguntas o casos de estudio para reflexionar
 
-## Fases:
+## Fases
 Hemos dividido la formación de este año 2017/2018 en las típicas fases que necesitamos para hacer un proyecto realidad.
 
 
@@ -30,10 +30,12 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 
 > [Guía de trabajo](http://slides.com/tebagomez/oswguilds-1)
 
-### Fase 2: Vale.. me has convencido. ¿Como Arranco?¿Pasar de idea a proyecto...?
-**Duración 120 minutos**
-**Temática:**
+### Fase 2: Vale...me has convencido, ¿y ahora cómo arranco? ¿cómo pasamos de idea a proyecto?
+**Taller 2 Enero 2018** ***"Arrancar un proyecto Open Source desde cero"***
+
 - Objetivos SMART, Misión, Visión, Valores, Estrategia y plan de Acción de un proyecto
+
+> [Guía de trabajo](http://slides.com/tebagomez/oswguilds_arrancar-un-proyecto-desde-cero)
 
 
 ### Fase 3 (FEB): Ya hemos aterrizado la idea... pero necesito que el mundo lo sepa... ¿Como se entera el mundo de lo que hago?
