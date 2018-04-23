@@ -17,3 +17,20 @@ Queremos que los Guilders aprendan con mucha práctica, ejemplos reales y mentor
 **SHARE**: facilitando los debates, argumentaciones y diálogo entre los miembros
 
 **REFLECT**: con feedback por parte de los mentores y preguntas o casos de estudio para reflexionar
+
+## Sesiones
+Taller01_Noviembre 2017: generación de ideas con valor para los usuarios y cómo venderlas. 
+
+Taller02_Enero 2018: cómo arrancar un proyecto desde cero con planteamientos ágiles. 
+
+Taller03_Febrero 2018: 
+
+*Hackaton* _Marzo 2018_: Taller04
+
+Taller05_Abril 2018: 
+
+Taller06_Mayo 2018: 
+
+*Hackaton* _Junio 2018_: Taller07
+
+Taller08: cierre año OSW Guilds
