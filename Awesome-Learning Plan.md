@@ -50,26 +50,28 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 - En Marzo empezamos con las microcharlas Guilders de 15 minutos! Queremos dar el espacio a l@s Guilders que quieran practicar sus habilidades de *speakers* y experimentar en un entorno seguro, el de OSW! 
 > Si quieres dar una microcharla Guilder, contacta con @KoolTheba en Slack 
 
-### Fase 4 (Marzo - Hackathon): Esto de hacer proyectos mola, pero estoy solo y necesito más gente. ¿Como recluto y mantengo el talento?
+### Fase 4: Ya tenemos un equipo, un objetivo y un rumbo claro.. pero cada vez es más difícil que las cosas funcionen, parece que a más gente...más confusión... ¿Cómo nos organizamos? ¿qué puede hacer Scrum por el equipo? ¿GitHub y Scrum son amigos? 
 
-**Duración 120 minutos**
+- ¿Qué son las metodologías ágiles y cómo funcionan? 
+- Scrum básico para Guilders
+- Scrum con GitHub
 
-**Temática Teórica (75-90 min.) con @KoolTheba:**
-- Engancha y mantén a tu equipo
-- Cultura de equipo: lo óptimo para que la motivación exista!
-- Mi equipo es un Agile Team! SCRUM básico para Guilders 
-
-**Temática Práctica (30-45 min) con @KoolTheba y @UlisesGascon:**
-- **Scrum con GitHub**
-- Design Thinking para tod@s o cómo diseñar pensando en mis usuarios -> **Postpuesto**
+**Notas** 
+- Creamos todos los templates para poder trabajar con Scrum de manera sencilla y arrancar tu Guild y proyectos con OSWeekends Guilds! [Echa un vistazo a los Agile Templates!](https://github.com/OSWeekends/agile-project-template)
 
 **Viernes 16 tarde (18:30/21:00) -> workshop especial Meet the experts**
 - Taller de Producto y prototipado para Guilds
 
 **Domingo 18 (11:00/13:30)-> tiempo de arrancar el Guild! Meeting de equipo con Mentores (Ulises, Borja Godoy, Baumann, Teba**
 
-### Fase 5 (Abril): Ya tenemos un equipo, un objetivo y un rumbo claro.. pero cada vez es mas dificil que las cosas funcionan, parece que a mas gente..  mas confusion... ¿Como puedo optimizar todo esto?
+### Fase 5 (Abril): 
 
+
+Esto de hacer proyectos mola, pero estoy solo y necesito más gente. ¿Como recluto y mantengo el talento?
+
+- Engancha y mantén a tu equipo
+- Cultura de equipo: lo óptimo para que la motivación exista!
+- Mi equipo es un Agile Team! SCRUM básico para Guilders 
 **Duración 120 minutos**
 
 **Temática Teorica (75-90 min.) con @KoolTheba:**
