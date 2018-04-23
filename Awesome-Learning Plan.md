@@ -88,8 +88,8 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 **Taller 6 Mayo 2018: Convertir tu pasión por el Open Source en un trabajo de verdad**
 
 - Cómo generar ingresos extra desarrollándote como Freelance con [Malt](https://www.malt.es/)
-- Cómo pasar de mi idea a una Start-up con Camila Polensvaig de Tetuan Valley
-- Cómo llevar a las nubes a mi Start-up gracias a Campus Residency con Sofía Benjumea de Campus Madrid
+- Cómo pasar de mi idea a una Start-up con Camila Polensvaig de [Tetuan Valley](https://www.tetuanvalley.com/)
+- Cómo llevar a las nubes a mi Start-up gracias a Campus Residency con Sofía Benjumea de [Campus Madrid](https://www.campus.co/madrid/es/programs/#prog-campus-startup-school)
 
 ### Fase 7 (Junio - hackathon): Creo que toca hacer un ejercicio de reflexión y repasar todo lo que hemos aprendido en este largo año.
 
