@@ -21,10 +21,14 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 
 
 ### Fase 1: ¿De que va todo esto?
-**Duración 120 minutos**
+**Taller 1 Noviembre 2017** (**Duración 120 minutos**) ***#OSWGuilds: Lead, Commit, Transform, Lead by Example***
 
-- Porque hacer OSW que es guilds...?
-- Monta tu guild
+- ¿Qué son los #OSWGuilds...?
+- Monta tu propio Guild! 
+- Cómo generar ideas con valor y cómo *venderlas*
+- Trabajar en equipo: qué mola y qué podremos mejorar 
+
+> 
 
 ### Fase 2: Vale.. me has convencido. ¿Como Arranco?¿Pasar de idea a proyecto...?
 **Duración 120 minutos**
