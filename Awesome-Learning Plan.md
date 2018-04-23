@@ -51,10 +51,13 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 > Si quieres dar una microcharla Guilder, contacta con @KoolTheba en Slack 
 
 ### Fase 4: Ya tenemos un equipo, un objetivo y un rumbo claro.. pero cada vez es más difícil que las cosas funcionen, parece que a más gente...más confusión... ¿Cómo nos organizamos? ¿qué puede hacer Scrum por el equipo? ¿GitHub y Scrum son amigos? 
+**Taller 4 Marzo 2018** ***"Scrum y Cultura de equipos en proyectos Open Source"***
 
 - ¿Qué son las metodologías ágiles y cómo funcionan? 
 - Scrum básico para Guilders
 - Scrum con GitHub
+
+> [Guía de trabajo](http://slides.com/tebagomez/guilds-scrum-agile)
 
 **Notas** 
 - Creamos todos los templates para poder trabajar con Scrum de manera sencilla y arrancar tu Guild y proyectos con OSWeekends Guilds! [Echa un vistazo a los Agile Templates!](https://github.com/OSWeekends/agile-project-template)
