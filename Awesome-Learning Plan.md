@@ -46,8 +46,9 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 
 > [Guía de trabajo](http://slides.com/tebagomez/oswguilds_arrancar-un-proyecto-desde-cero-4) 
 
-**Notas**
-- En Marzo empezamos con las microcharlas de 15 minutos...
+**Nota**
+- En Marzo empezamos con las microcharlas Guilders de 15 minutos! Queremos dar el espacio a l@s Guilders que quieran practicar sus habilidades de *speakers* y experimentar en un entorno seguro, el de OSW! 
+> Si quieres dar una microcharla Guilder, contacta con @KoolTheba en Slack 
 
 ### Fase 4 (Marzo - Hackathon): Esto de hacer proyectos mola, pero estoy solo y necesito más gente. ¿Como recluto y mantengo el talento?
 
