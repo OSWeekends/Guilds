@@ -75,7 +75,7 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 
 
 ### Fase 5: Esto de hacer proyectos mola y el equipo ya es capaz de planificarse, ¿qué necesito según los roles de Scrum, tener en cuenta? ¿cómo se hace cultura? ¿cómo funcionar como un equipo auto-gestionado?
-**Taller 5 Abril 2018: Cultura ágil de equipos, roles de Scrum, retrospectivas**
+**Taller 5 Abril 2018: *"Cultura ágil de equipos, roles de Scrum, retrospectivas"***
 
 - ¿Cómo la evolución ha influido en cómo nos organizamos y en las estructuras actuales? 
 - Cultura de equipo: lo óptimo para que la motivación exista!
@@ -85,22 +85,18 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 > [Guía de trabajo](http://slides.com/tebagomez/title-text-oswguilds)
 
 ### Fase 6: formar parte de un Guild y hacer proyectos Open Source ha sido una experiencia genial y me molaría que fuera algo más que un hobbie... ¿Como puedo rentalibilizar todo esto profesionalmente?
-**Taller 6 Mayo 2018: Convertir tu pasión por el Open Source en un trabajo de verdad**
+**Taller 6 Mayo 2018: *"Convertir tu pasión por el Open Source en un trabajo de verdad"***
 
 - Cómo generar ingresos extra desarrollándote como Freelance con [Malt](https://www.malt.es/)
 - Cómo pasar de mi idea a una Start-up con Camila Polensvaig de [Tetuan Valley](https://www.tetuanvalley.com/)
 - Cómo llevar a las nubes a mi Start-up gracias a Campus Residency con Sofía Benjumea de [Campus Madrid](https://www.campus.co/madrid/es/programs/#prog-campus-startup-school)
 
-### Fase 7 (Junio - hackathon): Creo que toca hacer un ejercicio de reflexión y repasar todo lo que hemos aprendido en este largo año.
+### Fase 7: A parte de oportunidades y opciones, necesito revisar mi motivación, mis barreras, mis habilidades de cara a mi desarrollo personal y profesional! Y además toca hacer un ejercicio de reflexión de todo el año como Guilder! 
+**Taller 7 Junio 2018: *"La verdadera clave del desarrollo profesional: el personal!"*
 
-**Duración 120 minutos**
+- Desarrollo personal: cómo conseguir mis objetivos personales
+- Desarrollo profesional: cómo construir mi modelo de negocio y mi aportación de valor 
+- Recap anual: *Los Guilds, un caso de éxito*
 
-**Temática Teorica:**
-- Los guilds, un caso de exito con Theba Gomez (15 minutos)
-- Desarrollo personal: cómo conseguir mis objetivos personales (30 minutos) con Theba Gomez
-- Desarrollo profesional: cómo construir mi modelo de negocio y mi aportación de valor (30 minutos) con Theba Gomez
-
-**Temática Práctica:**
-- Recapitulacion del año a nivel tecnico con Ulises (45 minutos)
 
 
