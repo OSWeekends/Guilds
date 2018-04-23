@@ -6,3 +6,14 @@ Queremos conseguir que gracias a compartir el conocimiento de los Seniors de la 
 Los valores en los que basamos los Guilds son: LEARN, COMMIT, TRANSFORM Y LEAD BY EXAMPLE. 
 
 Los pilares en los que basamos el aprendizaje de la parte de **Empowerment** son: LIDERAZGO, INTELIGENCIA EMOCIONAL, MOTIVACIÓN, CREATIVIDAD E INNOVACIÓN. 
+
+## Metodología 
+Queremos que los Guilders aprendan con mucha práctica, ejemplos reales y mentoría de apoyo, por lo que queremos seguir la metodología: 
+
+**SEE**: para ello, daremos una breve teoría sobre el tema a tratar a través de *Masterclasses* y recursos visuales en el canal de Youtube de OSW
+
+**TRY**: práctica para practicar de verdad casos reales siguiendo el famoso *learning by doing* 
+
+**SHARE**: facilitando los debates, argumentaciones y diálogo entre los miembros
+
+**REFLECT**: con feedback por parte de los mentores y preguntas o casos de estudio para reflexionar
