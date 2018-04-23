@@ -20,8 +20,10 @@ Queremos que los Guilders aprendan con mucha práctica, ejemplos reales y mentor
 Hemos dividido la formación de este año 2017/2018 en las típicas fases que necesitamos para hacer un proyecto realidad.
 
 
-### Fase 1: ¿De que va todo esto?
-**Taller 1 Noviembre 2017** (**Duración 120 minutos**) ***#OSWGuilds: Lead, Commit, Transform, Lead by Example***
+### Fase 1: ¿De qué va todo esto?
+**Taller 1 Noviembre 2017** ***"#OSWGuilds: Lead, Commit, Transform, Lead by Example"***
+
+(**Duración 120 minutos**)
 
 - ¿Qué son los #OSWGuilds...?
 - Monta tu propio Guild! 
