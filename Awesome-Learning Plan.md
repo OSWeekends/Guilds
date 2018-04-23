@@ -1,7 +1,7 @@
 # Plan de formación 
 Queremos que líderes y contributors aprendan habilidades técnicas, de gestión de proyectos, de empoderamiento de personas y equipos para que consigan hacer realidad los proyectos en los que los Guilds se embarquen.
 
-Queremos conseguir que gracias a compartir el conocimiento de los Seniors de la comunidad a través de un plan de formación y un programa de mentoría, tod@s los miembros consigan un nivel de autonomía de gestión de proyectos con tecnología como base suficiente como para liderar cualquier idea que quieran desarrollar. 
+Gracias a compartir el conocimiento de los Seniors de la comunidad a través de un plan de formación y un programa de mentoría, queremos que l@s Guilders consigan un nivel de autonomía de gestión de proyectos con tecnología como base suficiente como para liderar cualquier idea que quieran desarrollar. 
 
 Los valores en los que basamos los Guilds son: LEARN, COMMIT, TRANSFORM y LEAD BY EXAMPLE. 
 
