@@ -13,7 +13,7 @@ Lo que aportamos a los Guilds:
 
 **...y mucho más que iremos construyendo gracias a tí! ;)**
 
-**Mira todos los recursos hasta hoy del Plan de Formacion [*aquí*](https://github.com/OSWeekends/Guilds/blob/master/Awesome-Learning%20Plan.md)
+**Mira todos los recursos hasta hoy del Plan de Formacion [*aquí*](https://github.com/OSWeekends/Guilds/blob/master/Awesome-Learning%20Plan.md)**
 
 > Queremos hacer que todo el mundo acceda más fácilmente a la comunidad Open Source y hacer posible que los contributors de hoy sean los líderes del futuro. 
 
