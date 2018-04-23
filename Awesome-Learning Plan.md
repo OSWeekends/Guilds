@@ -63,10 +63,11 @@ Hemos dividido la formación de este año 2017/2018 en las típicas fases que ne
 - Creamos todos los templates para poder trabajar con Scrum de manera sencilla y arrancar tu Guild y proyectos con OSWeekends Guilds! [Echa un vistazo a los Agile Templates!](https://github.com/OSWeekends/agile-project-template)
 
 **Talleres especiales Meet the experts con CodingCarlos e Ivoriginal**
+
 Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en nuestros usuarios cuando queremos desarrollar un producto y cómo prototipar rápido y testar, e iterar...aprender sobre la marcha! En los links tenéis sus presentaciones!  
 
 
-**Taller Product: Build, ship, change, repeat by Coding Carlos** 
+**Taller *Product: Build, ship, change, repeat* by Coding Carlos** 
 > [Guía de trabajo](https://docs.google.com/presentation/d/1sR_P4XR7nS6ejNa9HFf7Q4wmsFj9ieJCJOz0MAI9hV4/edit#slide=id.g1d3cb68a5b_1_45)
 
 **Taller *Prototipa, no la cagues*, by Ivo Vilches** 
