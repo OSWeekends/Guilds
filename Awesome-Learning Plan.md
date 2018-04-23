@@ -74,9 +74,10 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 > [Guía de trabajo](https://osweekends.slack.com/files/U32RB6J65/FAARTL7T2/prototyping_osw)
 
 
-### Fase 5: Esto de hacer proyectos mola y el equipo ya es capaz de planificarse, ¿qué necesito según los roles de Scrum, tener en cuenta? ¿cómo se hace cultura? ¿cómo funciona como un equipo auto-gestionado?  
+### Fase 5: Esto de hacer proyectos mola y el equipo ya es capaz de planificarse, ¿qué necesito según los roles de Scrum, tener en cuenta? ¿cómo se hace cultura? ¿cómo funciona como un equipo auto-gestionado?
+**Taller 5 Abril 2018: Cultura ágil de equipos, roles de Scrum, retrospectivas**
 
-
+- ¿Cómo la evolución ha influido en cómo nos organizamos y en las estructuras actuales? 
 - Cultura de equipo: lo óptimo para que la motivación exista!
 - Mi equipo es un equipo auto-organizado!
 
