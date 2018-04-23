@@ -84,17 +84,12 @@ Gracias a nuestros compis Carlos e Ivo, los Guilders aprendimos cómo pensar en 
 
 > [Guía de trabajo](http://slides.com/tebagomez/title-text-oswguilds)
 
-### Fase 6 (Mayo - Hackathon): Liderar un Guild ha sido una experiencia genial y me molaria que fuera algo más que un hobbie... ¿Como puedo rentalibilizar todo esto profesionalmente?
+### Fase 6: formar parte de un Guild y hacer proyectos Open Source ha sido una experiencia genial y me molaría que fuera algo más que un hobbie... ¿Como puedo rentalibilizar todo esto profesionalmente?
+**Taller 6 Mayo 2018: Convertir tu pasión por el Open Source en un trabajo de verdad**
 
-**Duración 120 minutos**
-
-**Objetivo:** Convertir tu pasión en un trabajo de verdad y rentabilizar profesionalmente lo que has logrado en estos meses
-
-**Temática Teorica:**
-- Inteligencia Emocional: YO y YO COMO LÍDER DE UN EQUIPO (30 min) con Theba
-- Github como portfolio. Ser developer en el siglo XXI (30 min.) con Ulises/Irene
-- Haz algo mas de esta experiencia (startup (30 min.) con Camila de Tetuan Valley
-- freelance (30 min.) con Malt
+- Cómo generar ingresos extra desarrollándote como Freelance con [Malt](https://www.malt.es/)
+- Cómo pasar de mi idea a una Start-up con Camila Polensvaig de Tetuan Valley
+- Cómo llevar a las nubes a mi Start-up gracias a Campus Residency con Sofía Benjumea de Campus Madrid
 
 ### Fase 7 (Junio - hackathon): Creo que toca hacer un ejercicio de reflexión y repasar todo lo que hemos aprendido en este largo año.
 
