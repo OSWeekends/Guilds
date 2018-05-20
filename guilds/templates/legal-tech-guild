@@ -1,0 +1,25 @@
+{
+    "flag" : "legaltech.png",
+    "name" : "Legal Tech Guild",
+    "motto" : "Apoyo a las guilds en temas de legalidad tecnológica y aplicar tecnología al ámbito del derecho",
+    "projects" : [ 
+        {
+            "name" : "Licencias de Software",
+            "motto" : "Licenses & Freedom",
+            "stack" : [ 
+                "nodejs", 
+                "javascript", 
+                "pillars", 
+                "passport"
+            ],
+            "wanted" : [ 
+                "Desarrollador@s",
+                "Diseño",
+                "UX",
+                "Legal"
+            ],
+            "status" : 0,
+            "repo" : "https://..."
+        }
+    ]
+}
