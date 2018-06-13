@@ -1,24 +1,5 @@
 # Listado de Guilds - Updated 13/06/2018
 
-* [Guild 24](#guild-24)
-* [Welcome Guild](#welcome-guild)
-* [MetaGuild](#metaguild)
-* [Wild Guild West](#wild-guild-west)
-* [Guild Gaming](#guild-gaming)
-* [Guild Salud](#guild-salud)
-* [Open Hardware Guild](#open-hardware-guild)
-* [Data Science Guild](#data-science-guild)
-* [Culture Guild](#culture-guild)
-* [Adalabers Guild](#adalabers-guild)
-* [Fórmula UC3M Guild](#fórmula-uc3m-guild)
-* [BlockChain Guild](#blockchain-guild)
-* [Agricultura y Sostenibilidad Guild](#agricultura-y-sostenibilidad-guild)
-* [Kids Guild](#kids-guild)
-* [Empower OS Guild](#empower-os-guild)
-* [Cybersecurity Guild](#cybersecurity-guild)
-* [Design Guild](#design-guild)
-* [cRUSTáceos Guild](#crustáceos-guild)
-
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓
 
 > Este pretende ser un listado sencillo y actualizado de los Guilds y proyectos, aunque toda la info la encontraréis en nuestra web [guilds.osweekends.com](http://guilds.osweekends.com/)
@@ -26,6 +7,25 @@
 **Mira la lista, investiga sobre los proyectos y únete a los Guilds para hacer Open Source!**
 
 *Para cualquier cosa que necesites, no dudes en contactar con @KoolTheba en SLACK o con @Ulisesgascon*
+
+1. [Guild 24](#guild-24)
+1. [Welcome Guild](#welcome-guild)
+1. [MetaGuild](#metaguild)
+1. [Wild Guild West](#wild-guild-west)
+1. [Guild Gaming](#guild-gaming)
+1. [Guild Salud](#guild-salud)
+1. [Open Hardware Guild](#open-hardware-guild)
+1. [Data Science Guild](#data-science-guild)
+1. [Culture Guild](#culture-guild)
+1. [Adalabers Guild](#adalabers-guild)
+1. [Fórmula UC3M Guild](#fórmula-uc3m-guild)
+1. [BlockChain Guild](#blockchain-guild)
+1. [Agricultura y Sostenibilidad Guild](#agricultura-y-sostenibilidad-guild)
+1. [Kids Guild](#kids-guild)
+1. [Empower OS Guild](#empower-os-guild)
+1. [Cybersecurity Guild](#cybersecurity-guild)
+1. [Design Guild](#design-guild)
+1. [cRUSTáceos Guild](#crustáceos-guild)
 
 ## Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
