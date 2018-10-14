@@ -12,7 +12,7 @@
 1. [Welcome Guild](#welcome-guild)
 1. [MetaGuild](#metaguild)
 1. [Wild Guild West](#wild-guild-west)
-1. [Guild Gaming](#guild-gaming)
+1. [Guild ROL Gaming](#guild-rol-gaming)
 1. [Guild Salud](#guild-salud)
 1. [Open Hardware Guild](#open-hardware-guild)
 1. [Data Science Guild](#data-science-guild)
@@ -148,7 +148,12 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
 
 
-## Guild Gaming
+## Guild ROL Gaming
+- **Descripción:**
+- **Lideres:**
+- **Componentes:**
+- **Canal de Slack:**
+
 ### Proyecto Juego de rol on-line Open Source 🎮
 
 > Crear un tablero interactivo, con tirada de dados, chat, sonido…
@@ -164,7 +169,7 @@ Manera de trabajo basada en issues, milestones... con GitHub
 
 Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript)
 
-Canal de Slack: **#proyecto_rol_gaming**
+Canal de Slack: **#pr_rol_gaming**
 
 [Repo en GitHub](https://github.com/OSWeekends/rolgame)
 
