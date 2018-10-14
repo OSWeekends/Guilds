@@ -61,6 +61,8 @@ Canal de Slack: **#proyecto-memezinga**
 ### :o: c9scripts
 - https://github.com/OSWeekends/c9scripts
 
+### :o: WikiNews
+- https://github.com/OSWeekends/WikiNews
 
 ## :interrobang: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
