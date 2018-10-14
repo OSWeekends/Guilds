@@ -16,7 +16,6 @@
 1. [Guild Salud](#guild-salud)
 1. [Open Hardware Guild](#open-hardware-guild)
 1. [Data Science Guild](#data-science-guild)
-1. [Culture Guild](#culture-guild)
 1. [Adalabers Guild](#adalabers-guild)
 1. [Fórmula UC3M Guild](#fórmula-uc3m-guild)
 1. [BlockChain Guild](#blockchain-guild)
@@ -213,19 +212,6 @@ Canal de Slack: **#open-hardware-guild**
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
 
 Canal de Slack: **#data_science_guild**
-
-## Culture Guild
-
-### Proyecto red social músicos y Jams
-> PARA INFO, MIRA EL REPO! 🕴 🎷
-
- [Repo en GitHub](https://github.com/OSWeekends/JAM-project)
-
-Líder: @Yoel Macia
-
-Canal de Slack: **#proyecto_jam_cultureguild**
-
-### Proyecto fotografía gran formato Open Source (por arrancar)
 
 ## Adalabers Guild
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
