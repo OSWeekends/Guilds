@@ -67,6 +67,12 @@ Canal de Slack: **#proyecto-memezinga**
 ### :o: CodingCarlos-as-a-Service
 - https://github.com/OSWeekends/CodingCarlos-as-a-Service
 
+### :o: oswaldito-landing
+- https://github.com/OSWeekends/oswaldito-landing
+
+### :o: OSWaldito
+- https://github.com/OSWeekends/OSWaldito
+
 ## :interrobang: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
