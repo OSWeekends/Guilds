@@ -249,7 +249,7 @@ Canal de Slack: **#formula-uc3m-guild**
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
-## Agricultura y Sostenibilidad Guild
+## Guild de Agricultura y Sostenibilidad
 > Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
 
 Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
