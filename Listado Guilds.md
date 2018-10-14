@@ -42,7 +42,7 @@
 ## :interrobang: Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
 
-**Guild cerrado a l@s alumn@s del Master, aunque siempre puedes preguntar a @UlisesGascon para participar en alguno**
+**Guild cerrado a l@s alumn@s del Master de JS y Node de Fictizia, aunque siempre puedes preguntar a @UlisesGascon para participar en alguno**
 
 ### :interrobang: Proyecto Memezinga
 > El primer generador de MEMES OPEN SOURCE!
@@ -55,6 +55,8 @@ Canal de Slack: **#proyecto-memezinga**
 
 ### :interrobang: Proyecto Cúrratelo (por confirmar)
 
+### :o: Another-AJAX-Library
+- https://github.com/OSWeekends/Another-AJAX-Library
 
 
 ## :interrobang: Guild Adalabers
