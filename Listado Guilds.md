@@ -25,6 +25,13 @@
 1. [Guild Wild](#guild-wild-west)
 1. [MetaGuild](#metaguild)
 
+#### LEYENDA
+
+- :interrobang: - `Información desactualizada`
+- :x: - `Información errónea`
+- :white_check_mark: `Información correcta`
+- :o: `Informacion desconocida`
+
 ## Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
 
