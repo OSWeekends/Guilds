@@ -73,6 +73,9 @@ Canal de Slack: **#proyecto-memezinga**
 ### :o: OSWaldito
 - https://github.com/OSWeekends/OSWaldito
 
+### :o: know-your-SNPs
+- https://github.com/OSWeekends/know-your-SNPs
+
 ## :interrobang: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
