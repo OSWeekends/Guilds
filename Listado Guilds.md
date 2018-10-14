@@ -5,7 +5,7 @@
 **En Septiembre 2018 comenzamos el año 2 de los Guilds con casi 100 personas en nuestro 1er evento del año 🎉🎉.**
 Tenemos mucha gente nueva, cambios y novedades! 
 
-🤖Este año nos centraremos en finalizar **proyectos empezados**, por lo que tendremos que centrar más la energía y apoyo en cierta cantidad de proyectos. En el *bucket de proyectos* tendremos:  
+🤖 Este año nos centraremos en finalizar **proyectos empezados**, por lo que tendremos que centrar más la energía y apoyo en cierta cantidad de proyectos. En el *bucket de proyectos* tendremos:  
 
 - 1 proyecto largo de proyección a 12 meses, 
 - 2 proyectos medianos de proyección a 6meses, 
@@ -13,9 +13,11 @@ Tenemos mucha gente nueva, cambios y novedades!
 
 Una vez presentada la documentación y roadmap de proyecto siguiendo la [guia de trabajo](http://cyber-nomads.slides.com/tebagomez/guilds-scrum-agile#/8/3) que tenemos del año pasado, la organización decidirá qué proyectos entran en el *bucket de proyectos* de este año 2018/2019. Por ello: 
 
-🤖Si ya tienes un Guild del año pasado, tendrás que preparar tu documentación y roadmap para presentarlo a la organización. 
+📣 Si ya perteneces a un Guild y tienes un proyecto a medias del año pasado, tendrás que preparar tu documentación y roadmap para presentarlo a la organización. 
 
-📣📣**ATENCIÓN!** Te damos mil abrazos si eres nuevo/a/e y además te invitamos a que te apuntes al Guild Newbies/Prospects para contribuir a proyectos molones que duran aprox 3 meses y así compruebes con una experiencia intensa e interesante si te mola nuestra comunidad Open Source y quieres seguir colaborando en otros proyectos más largos. 
+📣 Si ya eras Guilder pero tu proyecto no salió adelante, echa un vistazo al listado y júntate con el Guild en Slack para ver cómo puedes colaborar. 
+
+📣📣 **ATENCIÓN!** Te damos mil abrazos si eres nuevo/a/e y además te invitamos a que te apuntes al Guild Newbies/Prospects para contribuir a proyectos molones que duran aprox 3 meses y así compruebes con una experiencia intensa e interesante si te mola nuestra comunidad Open Source y quieres seguir colaborando en otros proyectos más largos. 
 
 👉 *Para cualquier cosa que necesites, no dudes en contactar con @KoolTheba en SLACK o con @Ulisesgascon*
 
