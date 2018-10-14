@@ -29,7 +29,7 @@
 1. :interrobang: [Guild Salud](#guild-salud)
 1. :o: [Guild Sistemas](#o-guild-sistemas)
 1. :interrobang: [Guild Welcome](#guild-welcome)
-1. :interrobang: [Guild Wild](#guild-wild-west)
+1. :interrobang: [Guild Wild West](#guild-wild-west)
 1. :interrobang: [MetaGuild](#metaguild)
 
 #### LEYENDA
