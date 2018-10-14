@@ -26,6 +26,7 @@
 1. :interrobang: [Guild ROL Gaming](#guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#guild-open-hardware)
 1. :interrobang: [Guild Salud](#guild-salud)
+1. :o: [Guild Sistemas](#o-guild-sistemas)
 1. :interrobang: [Guild Welcome](#guild-welcome)
 1. :interrobang: [Guild Wild](#guild-wild-west)
 1. :interrobang: [MetaGuild](#metaguild)
@@ -276,6 +277,17 @@ Canal de Slack: **#pr_rol_gaming**
 Canal de Slack: **#guild_salud**
 
 
+## :o: Guild Sistemas
+
+
+### :interrobang: Proyecto Goku
+> Infraestructura en Cloud para todos los proyectos de los Guilds
+
+Líder: Jorge Vidal
+
+Canal de Slack: **#proyecto-goku-cloud**
+
+
 ## :interrobang: Guild Welcome
 ### :interrobang: Proyecto web Welcome OSWeekends (finalizado)
 
@@ -359,14 +371,6 @@ Líder:
 @Jorgeural
 
 Canal de Slack: **#proyecto-recursos**
-
-### :interrobang: Proyecto Goku
-> Infraestructura en Cloud para todos los proyectos de los Guilds
-
-Líder:
-@CodingCarlos
-
-Canal de Slack: **#proyecto-goku-cloud**
 
 ### :interrobang: Proyecto web guilds.osweekends.com
 > Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...
