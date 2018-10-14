@@ -32,12 +32,12 @@
 - :white_check_mark: `Información correcta`
 - :o: `Informacion desconocida`
 
-## Guild 24
+## :interrobang: Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
 
 **Guild cerrado a l@s alumn@s del Master, aunque siempre puedes preguntar a @UlisesGascon para participar en alguno**
 
-### Proyecto Memezinga
+### :interrobang: Proyecto Memezinga
 > El primer generador de MEMES OPEN SOURCE!
 
 [Repo en GitHub](https://github.com/OSWeekends/memezinga)
@@ -46,14 +46,14 @@
 
 Canal de Slack: **#proyecto-memezinga**
 
-### Proyecto Cúrratelo (por confirmar)
+### :interrobang: Proyecto Cúrratelo (por confirmar)
 
 
 
-## Guild Adalabers
+## :interrobang: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
-### Proyecto Kienba 🙋🏻
+### :interrobang: Proyecto Kienba 🙋🏻
 > Proyecto de desarrollo de una herramienta que en una primera fase ayude a facilitar la solicitud de turnos de preguntas y apoyo en talleres, escuelas, universidades...hasta convertirlo quizá en una herramienta para gamificar la experiencia de l@s asistentes a charlas, conferencias...mirar toda info en el repo de GitHub!
 
 Líderes: @Mónica Aguado y @Aida Albarrán
@@ -64,22 +64,22 @@ Mentor: @Carlos Azaustre
 
 Canal de Slack: **#proyectokienba_adalab**
 
-## Guild BlockChain
+## :interrobang: Guild BlockChain
 > Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
-### Proyecto red cooperativa agrícola con BlockChain
+### :interrobang: Proyecto red cooperativa agrícola con BlockChain
 
 **Estar pendientes de la info, es un proyecto por arrancar!**
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
 
-## Guild de Agricultura y Sostenibilidad
+## :interrobang: Guild de Agricultura y Sostenibilidad
 > Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
 
 Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 
-### Proyecto Domotización invernaderos para agricultura sostenible
+### :interrobang: Proyecto Domotización invernaderos para agricultura sostenible
 
 **Estar pendientes de la info! El proyecto está arrancando!**
 
@@ -88,12 +88,12 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 
-## Guild cRUSTáceos
+## :interrobang: Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
 
 **Seguir atent@s a su canal de Slack en OSW: c_rust_aceos_guild**
 
-### Proyecto Educativo alrededor de Rust (por arrancar)
+### :interrobang: Proyecto Educativo alrededor de Rust (por arrancar)
 > El objetivo es organizar un proyecto educativo con el que iniciarse en el lenguaje RUST.
 
 **Problema**
@@ -129,7 +129,7 @@ El concepto inicial sería montar todos los cambios del proyecto por pull reques
 Al final de cada hito recopilar un índice de esos pulls para que las siguientes generaciones puedan aprender en un orden legible y organizar una mini-charla de los aprendizajes y avances, etc.
 
 
-## Guild Cybersecurity
+## :interrobang: Guild Cybersecurity
 > Guild que quiere desarrollar proyectos sobre Ciberseguridad.
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
@@ -139,7 +139,7 @@ Canal de Slack: **#cibersecurity_guild**
 Líder: @Kr0n0
 
 
-## Guild Data Science
+## :interrobang: Guild Data Science
 > Guild que quiere desarrollar proyectos dentro del mundo de los datos abietos.
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
@@ -147,7 +147,7 @@ Líder: @Kr0n0
 Canal de Slack: **#data_science_guild**
 
 
-## Guild diseño
+## :interrobang: Guild diseño
 > Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
 
 **Si eres diseñador/a web, UXer, ilustrador@...y quieres trabajar con herramientas y para proyectos Open Source, no dejes de formar parte de este Guild!**
@@ -156,9 +156,9 @@ Canal de Slack: **#design_guild**
 
 Líder: @Tokytome
 
-## Guild Fórmula UC3M
+## :interrobang: Guild Fórmula UC3M
 
-### Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
+### :interrobang: Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
 
 > Mira toda la info en su repo!  🥇
 
@@ -172,12 +172,12 @@ Canal de Slack: **#formula-uc3m-guild**
 
 
 
-## Guild Kids
+## :interrobang: Guild Kids
 > Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
 
 Canal de Slack: **#Kids_guild**
 
-### Proyecto YABA (Yet Another Blocks Application)
+### :interrobang: Proyecto YABA (Yet Another Blocks Application)
 > YABA es un proyecto que va a crear una aplicación para programar placas controladoras por bloques.
 
 Líder: @Tom Calvo
@@ -186,14 +186,14 @@ Líder: @Tom Calvo
 
 Canal de Slack: **#proy_yaba_kidsguild**
 
-### Proyecto Read4Kids
+### :interrobang: Proyecto Read4Kids
 > Proyecto que va a desarrollar una app para que los niñ@s aprendan fácilmente a leer jugando!
 
 [Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
 
-## Guild Open Hardware
+## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
@@ -201,13 +201,13 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 Canal de Slack: **#open-hardware-guild**
 
 
-## Guild ROL Gaming
+## :interrobang: Guild ROL Gaming
 - **Descripción:**
 - **Lideres:**
 - **Componentes:**
 - **Canal de Slack:**
 
-### Proyecto Juego de rol on-line Open Source 🎮
+### :interrobang: Proyecto Juego de rol on-line Open Source 🎮
 
 > Crear un tablero interactivo, con tirada de dados, chat, sonido…
 El proyecto acaba de empezar: fase pre-planning. Bocetado por @Tuerto.
@@ -246,7 +246,7 @@ Canal de Slack: **#pr_rol_gaming**
 - @Valkiriann
 - @vickysolo
 
-## Guild Salud
+## :interrobang: Guild Salud
 > Guild que quiere desarrollar proyectos sobre temas de salud como contaminación del aire, desarrollo cognitivo de peques, temas ginecológicos, nutricionales...
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
@@ -254,16 +254,16 @@ Canal de Slack: **#pr_rol_gaming**
 Canal de Slack: **#guild_salud**
 
 
-## Guild Welcome
-### Proyecto web Welcome OSWeekends (finalizado)
+## :interrobang: Guild Welcome
+### :interrobang: Proyecto web Welcome OSWeekends (finalizado)
 
 [Welcome to OSW!](http://welcome.osweekends.com/)
 
 
-## Guild Wild West
+## :interrobang: Guild Wild West
 > Este Guild recoge lo *mejorcito* de los proyectos con los que se inició Open Source Weekends. Los proyectos están muy avanzados pero estamos pensando nuevas releases que con tu ayuda las haremos realidad!
 
-### Ginger Code
+### :interrobang: Ginger Code
 > Un sistema de aprendizaje sencillo para todos, ¡cualquiera puede aprender a programar!
 
 - [Organización: GingerCode](https://github.com/GingerCode)
@@ -290,7 +290,7 @@ Canal de Slack: **#guild_salud**
 	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
 
 
-### Proyecto Goblin DB
+### :interrobang: Proyecto Goblin DB
 > An amazing, simple and fun database for humans
 
 Proyecto innovador, en proceso de evolución, en la que vamos soltando nuestra creatividad y pasando un buen rato. Además funciona bastante bien como caché o para temas de scraping (para no abusar de hacer demasiadas peticiones a un endpoint puedes salvar los resultados en goblin y la refrescar cada cierto tiempo).
@@ -319,7 +319,7 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 	- [GoblinDBRocks/GoblinDBRocks.github.io](https://github.com/GoblinDBRocks/GoblinDBRocks.github.io), GoblinDB website
 	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
 
-## MetaGuild
+## :interrobang: MetaGuild
 > Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
 
 Líderes:
@@ -328,7 +328,7 @@ Líderes:
 
 **Grupo cerrado, aunque siempre puedes preguntar para unirte a alguno de los proyectos!**
 
-### Proyecto Recursos OSW
+### :interrobang: Proyecto Recursos OSW
 > Web que quiere recoger todos los recursos que se vuelcan en el Slack de OSW
 
 [Repo en GitHub](https://github.com/OSWeekends/recursos.osweekends.com)
@@ -338,7 +338,7 @@ Líder:
 
 Canal de Slack: **#proyecto-recursos**
 
-### Proyecto Goku
+### :interrobang: Proyecto Goku
 > Infraestructura en Cloud para todos los proyectos de los Guilds
 
 Líder:
@@ -346,7 +346,7 @@ Líder:
 
 Canal de Slack: **#proyecto-goku-cloud**
 
-### Proyecto web guilds.osweekends.com
+### :interrobang: Proyecto web guilds.osweekends.com
 > Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...
 
 Líderes:
