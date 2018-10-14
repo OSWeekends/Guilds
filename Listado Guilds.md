@@ -259,6 +259,29 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 ### :o: Eventpoints
 
+> Proyecto de desarrollo de una herramienta que liste los eventos tecnológicos que suceden en Madrid cada semana haciendo scrapping de diferentes fuentes (Medialab Prado, Campus, Eventbrite y MeetUp)...mirar toda info en el repo de GitHub!
+
+Mentor: @RicardoGDM
+
+[Repo de GitHub FrontEnd](https://github.com/OSWeekends/EventPoints)
+[Repo de GitHub BackEnd](https://github.com/OSWeekends/eventpoints-backend)
+
+Canal de Slack: **#pr_eventpoints_new**
+
+**Guilders (usuario Slack)**  
+- @RicardoGDM
+- @Albametnet
+- @lucbpz
+- @carlosfdev
+- @baumannzone
+- @DGJones
+- @KoolTheba
+- @sejas
+- @gemaderus
+- @VaqueroFontenla
+- @annabranco
+
+
 ## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
 
