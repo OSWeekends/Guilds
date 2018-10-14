@@ -19,6 +19,7 @@
 1. :interrobang: [Guild Data Science](#guild-data-science)
 1. :interrobang: [Guild Diseño](#guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#guild-fórmula-uc3m)
+1. :o: [Guild Hacker Space](#0-guild-hacker-space)
 1. :interrobang: [Guild Kids](#guild-kids)
 1. :o: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
@@ -182,6 +183,7 @@ Canal de Slack: **#formula-uc3m-guild**
 > Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
 
 
+## :o: Guild Hacker Space
 
 ## :interrobang: Guild Kids
 > Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
