@@ -2,11 +2,12 @@
 
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓 (👉nos encanta leer nuestros orígenes!!)
 
-Este pretende ser un listado sencillo y actualizado de los Guilds y proyectos, aunque toda la info la encontraréis en nuestra web [guilds.osweekends.com](http://guilds.osweekends.com/)...en cuanto esté lista 😂 (dadnos hasta principios de 2019). 
-
-**Mira la lista, investiga sobre los proyectos y únete a los Guilds para hacer Open Source!**
+**En Septiembre 2018 comenzamos el año 2 de los Guilds con casi 100 personas en nuestro 1er evento del año 🎉🎉.**
+Tenemos mucha gente nueva, cambios y novedades!  
 
 📣📣**ATENCIÓN!** Te damos mil abrazos si eres nuevo/a/e y además te invitamos a que te apuntes al Guild Newbies/Prospects para contribuir a proyectos molones que duran aprox 3 meses y así compruebes con una experiencia intensa e interesante si te mola nuestra comunidad Open Source y quieres seguir colaborando en otros proyectos más largos. 
+
+Este pretende ser un listado sencillo y actualizado de los Guilds y proyectos, aunque toda la info la encontraréis en nuestra web [guilds.osweekends.com](http://guilds.osweekends.com/)...en cuanto esté lista 😂 (dadnos hasta principios de 2019).
 
 👉 *Para cualquier cosa que necesites, no dudes en contactar con @KoolTheba en SLACK o con @Ulisesgascon*
 
