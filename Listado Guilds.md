@@ -64,6 +64,9 @@ Canal de Slack: **#proyecto-memezinga**
 ### :o: WikiNews
 - https://github.com/OSWeekends/WikiNews
 
+### :o: CodingCarlos-as-a-Service
+- https://github.com/OSWeekends/CodingCarlos-as-a-Service
+
 ## :interrobang: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
