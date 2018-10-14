@@ -289,6 +289,8 @@ Líder: Jorge Vidal
 
 Canal de Slack: **#proyecto-goku-cloud**
 
+### :o: status.osweekends.com
+
 
 ## :interrobang: Guild Welcome
 ### :interrobang: Proyecto web Welcome OSWeekends (finalizado)
