@@ -5,13 +5,15 @@
 **En Septiembre 2018 comenzamos el año 2 de los Guilds con casi 100 personas en nuestro 1er evento del año 🎉🎉.**
 Tenemos mucha gente nueva, cambios y novedades! 
 
-🤖Este año nos centraremos en finalizar proyectos empezados, por lo que tendremos activos: 
+🤖Este año nos centraremos en finalizar **proyectos empezados**, por lo que tendremos que centrar más la energía y apoyo en cierta cantidad de proyectos. En el *bucket de proyectos* tendremos:  
 
 - 1 proyecto largo de proyección a 12 meses, 
 - 2 proyectos medianos de proyección a 6meses, 
 - Entre 3 ó 4 proyectos a corto plazo (excluyendo los del Guild Newbies) de proyección a 3 meses. 
 
-🤖Si ya tienes un Guild del año pasado, tendrás que preparar cierta info y documentación para
+Una vez presentada la documentación y roadmap de proyecto, la organización decidirá qué proyectos entran en el *bucket de proyectos* de este año 2018/2019. Por ello: 
+
+🤖Si ya tienes un Guild del año pasado, tendrás que preparar tu documentación y roadmap para presentarlo a la organización. 
 
 📣📣**ATENCIÓN!** Te damos mil abrazos si eres nuevo/a/e y además te invitamos a que te apuntes al Guild Newbies/Prospects para contribuir a proyectos molones que duran aprox 3 meses y así compruebes con una experiencia intensa e interesante si te mola nuestra comunidad Open Source y quieres seguir colaborando en otros proyectos más largos. 
 
