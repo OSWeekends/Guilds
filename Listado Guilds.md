@@ -21,7 +21,6 @@
 1. [BlockChain Guild](#blockchain-guild)
 1. [Agricultura y Sostenibilidad Guild](#agricultura-y-sostenibilidad-guild)
 1. [Kids Guild](#kids-guild)
-1. [Empower OS Guild](#empower-os-guild)
 1. [Cybersecurity Guild](#cybersecurity-guild)
 1. [Design Guild](#design-guild)
 1. [cRUSTáceos Guild](#crustáceos-guild)
@@ -287,15 +286,6 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 ### Proyecto OSWeekends Kids (por arrancar)
 
 ### Proyecto Kids Guilders (por arrancar)
-
-## Empower OS Guild
-> Guild que quiere desarrollar herramientas para facilitar el autoconocimiento, la accesibilidad a recursos como gestión del tiempo, organización, inteligencia emocional...todo lo que tenga que ver con empoderamiento! 💪 💪
-
-**Si quieres unirte, contacta con ell@s o únete al canal #empower_os_guild**
-
-### Proyecto recursos de desarrollo intra e interpersonal (por arrancar)
-
-Líderes: @jacintoj y @KoolTheba
 
 ## Cybersecurity Guild
 > Guild que quiere desarrollar proyectos sobre Ciberseguridad.
