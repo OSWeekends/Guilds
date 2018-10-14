@@ -20,6 +20,7 @@
 1. :interrobang: [Guild Diseño](#guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#guild-fórmula-uc3m)
 1. :interrobang: [Guild Kids](#guild-kids)
+1. :o: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
 1. :interrobang: [Guild ROL Gaming](#guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#guild-open-hardware)
@@ -201,6 +202,9 @@ Canal de Slack: **#proy_yaba_kidsguild**
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
 
+## :o: Guild Legal
+
+### :o: Proyecto Easy Licenses
 
 ## ⭕️ [Guild Newbies/Prospects](#guild-newbies-prospects)
 
