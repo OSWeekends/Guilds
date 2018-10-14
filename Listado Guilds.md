@@ -11,7 +11,7 @@ Tenemos mucha gente nueva, cambios y novedades!
 - 2 proyectos medianos de proyección a 6meses, 
 - Entre 3 ó 4 proyectos a corto plazo (excluyendo los del Guild Newbies) de proyección a 3 meses. 
 
-Una vez presentada la documentación y roadmap de proyecto, la organización decidirá qué proyectos entran en el *bucket de proyectos* de este año 2018/2019. Por ello: 
+Una vez presentada la documentación y roadmap de proyecto siguiendo la [guia de trabajo](http://cyber-nomads.slides.com/tebagomez/guilds-scrum-agile#/8/3) que tenemos del año pasado, la organización decidirá qué proyectos entran en el *bucket de proyectos* de este año 2018/2019. Por ello: 
 
 🤖Si ya tienes un Guild del año pasado, tendrás que preparar tu documentación y roadmap para presentarlo a la organización. 
 
