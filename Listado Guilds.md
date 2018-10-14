@@ -19,6 +19,7 @@
 1. :interrobang: [Guild Diseño](#guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#guild-fórmula-uc3m)
 1. :interrobang: [Guild Kids](#guild-kids)
+1. :o: [Guild Newbies/Prospects](#guild-newbies-prospects)
 1. :interrobang: [Guild ROL Gaming](#guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#guild-open-hardware)
 1. :interrobang: [Guild Salud](#guild-salud)
@@ -90,7 +91,7 @@ Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
-## :o: Guild Calidad de Empleo
+## ⭕️ Guild Calidad de Empleo
 
 ## :interrobang: Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
@@ -196,6 +197,13 @@ Canal de Slack: **#proy_yaba_kidsguild**
 [Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
+
+
+## ⭕️ [Guild Newbies/Prospects](#guild-newbies-prospects)
+
+###  ⭕️ Ideas
+
+###  ⭕️ Eventpoints
 
 ## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
