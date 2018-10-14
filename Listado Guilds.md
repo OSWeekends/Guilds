@@ -11,15 +11,16 @@
 1. :interrobang: [Guild 24](#guild-24)
 1. :interrobang: [Guild Adalabers](#guild-adalabers)
 1. :interrobang: [Guild de Agricultura y Sostenibilidad](#guild-de-agricultura-y-sostenibilidad)
+1. :o: [Guild Arte Interactivo](#o-guild-arte-interactivo)
 1. :interrobang: [Guild BlockChain](#guild-blockchain)
-1. :o: [Guild Calidad de Empleo](#guild-calidad-de-empleo)
+1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#guild-cybersecurity)
 1. :interrobang: [Guild Data Science](#guild-data-science)
 1. :interrobang: [Guild Diseño](#guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#guild-fórmula-uc3m)
 1. :interrobang: [Guild Kids](#guild-kids)
-1. :o: [Guild Newbies/Prospects](#guild-newbies-prospects)
+1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
 1. :interrobang: [Guild ROL Gaming](#guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#guild-open-hardware)
 1. :interrobang: [Guild Salud](#guild-salud)
@@ -80,6 +81,8 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
+
+## :o: Guild Arte Interactivo
 
 
 ## :interrobang: Guild BlockChain
