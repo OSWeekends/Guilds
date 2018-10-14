@@ -12,6 +12,7 @@
 1. :interrobang: [Guild Adalabers](#guild-adalabers)
 1. :interrobang: [Guild de Agricultura y Sostenibilidad](#guild-de-agricultura-y-sostenibilidad)
 1. :interrobang: [Guild BlockChain](#guild-blockchain)
+1. :o: [Guild Calidad de Empleo](#guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#guild-cybersecurity)
 1. :interrobang: [Guild Data Science](#guild-data-science)
@@ -64,15 +65,6 @@ Mentor: @Carlos Azaustre
 
 Canal de Slack: **#proyectokienba_adalab**
 
-## :interrobang: Guild BlockChain
-> Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
-
-### :interrobang: Proyecto red cooperativa agrícola con BlockChain
-
-**Estar pendientes de la info, es un proyecto por arrancar!**
-
-**Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
-
 
 ## :interrobang: Guild de Agricultura y Sostenibilidad
 > Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
@@ -87,6 +79,18 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
+
+
+## :interrobang: Guild BlockChain
+> Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
+
+### :interrobang: Proyecto red cooperativa agrícola con BlockChain
+
+**Estar pendientes de la info, es un proyecto por arrancar!**
+
+**Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
+
+## :o: Guild Calidad de Empleo
 
 ## :interrobang: Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
