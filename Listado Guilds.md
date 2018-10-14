@@ -98,7 +98,7 @@ Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
-## ⭕️ Guild Calidad de Empleo
+## :o: Guild Calidad de Empleo
 
 ## :interrobang: Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
@@ -210,11 +210,11 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 ### :o: Proyecto Easy Licenses
 
-## ⭕️ [Guild Newbies/Prospects](#guild-newbies-prospects)
+## :o: Guild Newbies/Prospects
 
-###  ⭕️ Ideas
+### :o: Ideas
 
-###  ⭕️ Eventpoints
+### :o: Eventpoints
 
 ## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
