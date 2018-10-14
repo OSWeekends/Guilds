@@ -22,6 +22,7 @@
 1. :interrobang: [Guild Kids](#guild-kids)
 1. :o: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
+1. :o: [Guild Peluditos](#o-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#guild-open-hardware)
 1. :interrobang: [Guild Salud](#guild-salud)
@@ -219,6 +220,8 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 Canal de Slack: **#open-hardware-guild**
 
+
+## :o: Guild Peluditos
 
 ## :interrobang: Guild ROL Gaming
 - **Descripción:**
