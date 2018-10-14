@@ -1,4 +1,4 @@
-# Listado de Guilds - Updated 13/06/2018
+# Listado de Guilds - Updated 14/10/2018
 
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓
 
@@ -9,21 +9,21 @@
 *Para cualquier cosa que necesites, no dudes en contactar con @KoolTheba en SLACK o con @Ulisesgascon*
 
 1. [Guild 24](#guild-24)
-1. [Welcome Guild](#welcome-guild)
+1. [Guild Welcome](#guild-welcome)
 1. [MetaGuild](#metaguild)
-1. [Wild Guild West](#wild-guild-west)
+1. [Guild Wild West](#guild-wild-west)
 1. [Guild ROL Gaming](#guild-rol-gaming)
 1. [Guild Salud](#guild-salud)
-1. [Open Hardware Guild](#open-hardware-guild)
-1. [Data Science Guild](#data-science-guild)
-1. [Adalabers Guild](#adalabers-guild)
-1. [Fórmula UC3M Guild](#fórmula-uc3m-guild)
-1. [BlockChain Guild](#blockchain-guild)
-1. [Agricultura y Sostenibilidad Guild](#agricultura-y-sostenibilidad-guild)
-1. [Kids Guild](#kids-guild)
-1. [Cybersecurity Guild](#cybersecurity-guild)
-1. [Design Guild](#design-guild)
-1. [cRUSTáceos Guild](#crustáceos-guild)
+1. [Guild Open Hardware](#guild-open-hardware)
+1. [Guild Data Science](#guild-data-science)
+1. [Guild Adalabers](#guild-adalabers)
+1. [Guild Fórmula UC3M](#guild-fórmula-uc3m)
+1. [Guild BlockChain](#guild-blockchain)
+1. [Guild de Agricultura y Sostenibilidad](#guild-de-agricultura-y-sostenibilidad)
+1. [Guild Kids](#guild-kids)
+1. [Guild Cybersecurity](#guild-cybersecurity)
+1. [Guild Diseño](#guild-diseño)
+1. [Guild cRUSTáceos](#guild-crustáceos)
 
 ## Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
@@ -41,7 +41,7 @@ Canal de Slack: **#proyecto-memezinga**
 
 ### Proyecto Cúrratelo (por confirmar)
 
-## Welcome Guild
+## Guild Welcome
 ### Proyecto web Welcome OSWeekends (finalizado)
 
 [Welcome to OSW!](http://welcome.osweekends.com/)
@@ -86,7 +86,7 @@ Líderes:
 
 Canal de Slack: **#proyecto-guilds-web**
 
-## Wild Guild West
+## Guild Wild West
 > Este Guild recoge lo *mejorcito* de los proyectos con los que se inició Open Source Weekends. Los proyectos están muy avanzados pero estamos pensando nuevas releases que con tu ayuda las haremos realidad!
 
 ### Ginger Code
@@ -198,21 +198,21 @@ Canal de Slack: **#pr_rol_gaming**
 
 Canal de Slack: **#guild_salud**
 
-## Open Hardware Guild
+## Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
 
 Canal de Slack: **#open-hardware-guild**
 
-## Data Science Guild
+## Guild Data Science
 > Guild que quiere desarrollar proyectos dentro del mundo de los datos abietos.
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
 
 Canal de Slack: **#data_science_guild**
 
-## Adalabers Guild
+## Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
 ### Proyecto Kienba 🙋🏻
@@ -226,7 +226,7 @@ Mentor: @Carlos Azaustre
 
 Canal de Slack: **#proyectokienba_adalab**
 
-## Fórmula UC3M Guild
+## Guild Fórmula UC3M
 
 ### Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
 
@@ -240,7 +240,7 @@ Canal de Slack: **#formula-uc3m-guild**
 
 > Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
 
-## BlockChain Guild
+## Guild BlockChain
 > Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
 ### Proyecto red cooperativa agrícola con BlockChain
@@ -262,7 +262,7 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
-## Kids Guild
+## Guild Kids
 > Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
 
 Canal de Slack: **#Kids_guild**
@@ -287,7 +287,7 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 ### Proyecto Kids Guilders (por arrancar)
 
-## Cybersecurity Guild
+## Guild Cybersecurity
 > Guild que quiere desarrollar proyectos sobre Ciberseguridad.
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
@@ -296,7 +296,7 @@ Canal de Slack: **#cibersecurity_guild**
 
 Líder: @Kr0n0
 
-## Design Guild
+## Guild diseño
 > Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
 
 **Si eres diseñador/a web, UXer, ilustrador@...y quieres trabajar con herramientas y para proyectos Open Source, no dejes de formar parte de este Guild!**
@@ -305,7 +305,7 @@ Canal de Slack: **#design_guild**
 
 Líder: @Tokytome
 
-## cRUSTáceos Guild
+## Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
 
 **Seguir atent@s a su canal de Slack en OSW: c_rust_aceos_guild**
