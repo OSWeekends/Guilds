@@ -9,21 +9,21 @@
 *Para cualquier cosa que necesites, no dudes en contactar con @KoolTheba en SLACK o con @Ulisesgascon*
 
 1. [Guild 24](#guild-24)
-1. [Guild Welcome](#guild-welcome)
-1. [MetaGuild](#metaguild)
-1. [Guild Wild West](#guild-wild-west)
-1. [Guild ROL Gaming](#guild-rol-gaming)
-1. [Guild Salud](#guild-salud)
-1. [Guild Open Hardware](#guild-open-hardware)
-1. [Guild Data Science](#guild-data-science)
 1. [Guild Adalabers](#guild-adalabers)
-1. [Guild Fórmula UC3M](#guild-fórmula-uc3m)
-1. [Guild BlockChain](#guild-blockchain)
 1. [Guild de Agricultura y Sostenibilidad](#guild-de-agricultura-y-sostenibilidad)
-1. [Guild Kids](#guild-kids)
-1. [Guild Cybersecurity](#guild-cybersecurity)
-1. [Guild Diseño](#guild-diseño)
+1. [Guild BlockChain](#guild-blockchain)
 1. [Guild cRUSTáceos](#guild-crustáceos)
+1. [Guild Cybersecurity](#guild-cybersecurity)
+1. [Guild Data Science](#guild-data-science)
+1. [Guild Diseño](#guild-diseño)
+1. [Guild Fórmula UC3M](#guild-fórmula-uc3m)
+1. [Guild Kids](#guild-kids)
+1. [Guild ROL Gaming](#guild-rol-gaming)
+1. [Guild Open Hardware](#guild-open-hardware)
+1. [Guild Salud](#guild-salud)
+1. [Guild Welcome](#guild-welcome)
+1. [Guild Wild](#guild-wild-west)
+1. [MetaGuild](#metaguild)
 
 ## Guild 24
 > El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
@@ -41,50 +41,217 @@ Canal de Slack: **#proyecto-memezinga**
 
 ### Proyecto Cúrratelo (por confirmar)
 
+
+
+## Guild Adalabers
+> Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
+
+### Proyecto Kienba 🙋🏻
+> Proyecto de desarrollo de una herramienta que en una primera fase ayude a facilitar la solicitud de turnos de preguntas y apoyo en talleres, escuelas, universidades...hasta convertirlo quizá en una herramienta para gamificar la experiencia de l@s asistentes a charlas, conferencias...mirar toda info en el repo de GitHub!
+
+Líderes: @Mónica Aguado y @Aida Albarrán
+
+Mentor: @Carlos Azaustre
+
+[Repo de GitHub](https://github.com/OSWeekends/kienba)
+
+Canal de Slack: **#proyectokienba_adalab**
+
+## Guild BlockChain
+> Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
+
+### Proyecto red cooperativa agrícola con BlockChain
+
+**Estar pendientes de la info, es un proyecto por arrancar!**
+
+**Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
+
+
+## Guild de Agricultura y Sostenibilidad
+> Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
+
+Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
+
+### Proyecto Domotización invernaderos para agricultura sostenible
+
+**Estar pendientes de la info! El proyecto está arrancando!**
+
+[Repo en GitHub](https://github.com/OSWeekends/agricultura-sostenible)
+
+Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
+
+
+## Guild cRUSTáceos
+> En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
+
+**Seguir atent@s a su canal de Slack en OSW: c_rust_aceos_guild**
+
+### Proyecto Educativo alrededor de Rust (por arrancar)
+> El objetivo es organizar un proyecto educativo con el que iniciarse en el lenguaje RUST.
+
+**Problema**
+
+Rust es un lenguaje de programación difícil de aprender y la barrera de entrada es bastante alta.
+
+**Oportunidad**
+
+Salva (https://twitter.com/salvadelapuente) resucitó el meetup de Madrid Rust la semana pasada. Están comenzando y quieren organizar cosas para fomentar la comunidad.
+
+**Proyecto**
+
+Coger un software sencillo escrito en C/C++ y traducirlo a Rust. Organizarlo como si fuera un proyecto de software serio e ir complicando el proyecto con versiones mejoradas.
+
+Se ha escogido la utilidad grep. Los posibles hitos podrían ser:
+Versión BSD (http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/grep/)
+Versión GNU (http://git.savannah.gnu.org/cgit/grep.git/tree/src/grep.c)
+Versión ACK (https://beyondgrep.com/)
+Versión Silver Searcher (https://geoff.greer.fm/ag/)
+
+**Objetivos**
+
+Aprender Rust
+Leer código C (antiguo o muy antiguo)
+Utilizar GitHub con un flujo de trabajo "educativo"
+Aprender CI haciendo tests y utilizando Travis
+
+**Versión educativa**
+La idea es que sea un proyecto educativo.
+
+El concepto inicial sería montar todos los cambios del proyecto por pull request. Estos pulls estarían "novelados" con los conceptos que se utilizan y estarían abiertos una semana para recibir comentarios y resolver dudas. Una especie de Request For Comments.
+
+Al final de cada hito recopilar un índice de esos pulls para que las siguientes generaciones puedan aprender en un orden legible y organizar una mini-charla de los aprendizajes y avances, etc.
+
+
+## Guild Cybersecurity
+> Guild que quiere desarrollar proyectos sobre Ciberseguridad.
+
+**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+
+Canal de Slack: **#cibersecurity_guild**
+
+Líder: @Kr0n0
+
+
+## Guild Data Science
+> Guild que quiere desarrollar proyectos dentro del mundo de los datos abietos.
+
+**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+
+Canal de Slack: **#data_science_guild**
+
+
+## Guild diseño
+> Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
+
+**Si eres diseñador/a web, UXer, ilustrador@...y quieres trabajar con herramientas y para proyectos Open Source, no dejes de formar parte de este Guild!**
+
+Canal de Slack: **#design_guild**
+
+Líder: @Tokytome
+
+## Guild Fórmula UC3M
+
+### Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
+
+> Mira toda la info en su repo!  🥇
+
+[Repo de GitHub](https://github.com/OSWeekends/formula-uc3m)
+
+[Web Fórmula UC3M](http://formulauc3m.com/)
+
+Canal de Slack: **#formula-uc3m-guild**
+
+> Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
+
+
+
+## Guild Kids
+> Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
+
+Canal de Slack: **#Kids_guild**
+
+### Proyecto YABA (Yet Another Blocks Application)
+> YABA es un proyecto que va a crear una aplicación para programar placas controladoras por bloques.
+
+Líder: @Tom Calvo
+
+**Más info y repo por venir**
+
+Canal de Slack: **#proy_yaba_kidsguild**
+
+### Proyecto Read4Kids
+> Proyecto que va a desarrollar una app para que los niñ@s aprendan fácilmente a leer jugando!
+
+[Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
+
+Canal de SLACK: **#pr_read4kids_kidsgld**
+
+## Guild Open Hardware
+> Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
+
+**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+
+Canal de Slack: **#open-hardware-guild**
+
+
+## Guild ROL Gaming
+- **Descripción:**
+- **Lideres:**
+- **Componentes:**
+- **Canal de Slack:**
+
+### Proyecto Juego de rol on-line Open Source 🎮
+
+> Crear un tablero interactivo, con tirada de dados, chat, sonido…
+El proyecto acaba de empezar: fase pre-planning. Bocetado por @Tuerto.
+
+Líderes:
+- General @Josheriff y @xexuline
+- Líder de front @Vickysolo
+- Back @Jacintoj
+- Mentor @jbaumann
+
+Manera de trabajo basada en issues, milestones... con GitHub
+
+Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript)
+
+Canal de Slack: **#pr_rol_gaming**
+
+[Repo en GitHub](https://github.com/OSWeekends/rolgame)
+
+**Guilders (usuario Slack)**  
+- @Josheriff
+- @Adel
+- @Chechu
+- @elenaml
+- @Gala
+- @ismaelo
+- @jacintoj
+- @jandro935
+- @jgsogo
+- @Letzgar
+- @luisddm
+- @Mr.Pingüino
+- @Optimus_73
+- @Susana Taranco
+- @Tokytome
+- @tuerto
+- @Valkiriann
+- @vickysolo
+
+## Guild Salud
+> Guild que quiere desarrollar proyectos sobre temas de salud como contaminación del aire, desarrollo cognitivo de peques, temas ginecológicos, nutricionales...
+
+**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+
+Canal de Slack: **#guild_salud**
+
+
 ## Guild Welcome
 ### Proyecto web Welcome OSWeekends (finalizado)
 
 [Welcome to OSW!](http://welcome.osweekends.com/)
 
-## MetaGuild
-> Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
-
-Líderes:
-@KoolTheba
-@UlisesGascon
-
-**Grupo cerrado, aunque siempre puedes preguntar para unirte a alguno de los proyectos!**
-
-### Proyecto Recursos OSW
-> Web que quiere recoger todos los recursos que se vuelcan en el Slack de OSW
-
-[Repo en GitHub](https://github.com/OSWeekends/recursos.osweekends.com)
-
-Líder:
-@Jorgeural
-
-Canal de Slack: **#proyecto-recursos**
-
-### Proyecto Goku
-> Infraestructura en Cloud para todos los proyectos de los Guilds
-
-Líder:
-@CodingCarlos
-
-Canal de Slack: **#proyecto-goku-cloud**
-
-### Proyecto web guilds.osweekends.com
-> Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...
-
-Líderes:
-@lilxelo
-@bifuer
-
-[Repo en GitHub](https://github.com/OSWeekends/guilds.osweekends.com)
-
-[V.1.0.](http://guilds.osweekends.com/)
-
-Canal de Slack: **#proyecto-guilds-web**
 
 ## Guild Wild West
 > Este Guild recoge lo *mejorcito* de los proyectos con los que se inició Open Source Weekends. Los proyectos están muy avanzados pero estamos pensando nuevas releases que con tu ayuda las haremos realidad!
@@ -145,202 +312,44 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 	- [GoblinDBRocks/GoblinDBRocks.github.io](https://github.com/GoblinDBRocks/GoblinDBRocks.github.io), GoblinDB website
 	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
 
-
-## Guild ROL Gaming
-- **Descripción:**
-- **Lideres:**
-- **Componentes:**
-- **Canal de Slack:**
-
-### Proyecto Juego de rol on-line Open Source 🎮
-
-> Crear un tablero interactivo, con tirada de dados, chat, sonido…
-El proyecto acaba de empezar: fase pre-planning. Bocetado por @Tuerto.
+## MetaGuild
+> Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
 
 Líderes:
-- General @Josheriff y @xexuline
-- Líder de front @Vickysolo
-- Back @Jacintoj
-- Mentor @jbaumann
+@KoolTheba
+@UlisesGascon
 
-Manera de trabajo basada en issues, milestones... con GitHub
+**Grupo cerrado, aunque siempre puedes preguntar para unirte a alguno de los proyectos!**
 
-Tecnologías: Back> node con pillars; Front> Vue y Phaser (librería de juegos 2d javascript)
+### Proyecto Recursos OSW
+> Web que quiere recoger todos los recursos que se vuelcan en el Slack de OSW
 
-Canal de Slack: **#pr_rol_gaming**
+[Repo en GitHub](https://github.com/OSWeekends/recursos.osweekends.com)
 
-[Repo en GitHub](https://github.com/OSWeekends/rolgame)
+Líder:
+@Jorgeural
 
-**Guilders (usuario Slack)**  
-- @Josheriff
-- @Adel
-- @Chechu
-- @elenaml
-- @Gala
-- @ismaelo
-- @jacintoj
-- @jandro935
-- @jgsogo
-- @Letzgar
-- @luisddm
-- @Mr.Pingüino
-- @Optimus_73
-- @Susana Taranco
-- @Tokytome
-- @tuerto
-- @Valkiriann
-- @vickysolo
+Canal de Slack: **#proyecto-recursos**
 
-## Guild Salud
-> Guild que quiere desarrollar proyectos sobre temas de salud como contaminación del aire, desarrollo cognitivo de peques, temas ginecológicos, nutricionales...
+### Proyecto Goku
+> Infraestructura en Cloud para todos los proyectos de los Guilds
 
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+Líder:
+@CodingCarlos
 
-Canal de Slack: **#guild_salud**
+Canal de Slack: **#proyecto-goku-cloud**
 
-## Guild Open Hardware
-> Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
+### Proyecto web guilds.osweekends.com
+> Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...
 
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+Líderes:
+@lilxelo
+@bifuer
 
-Canal de Slack: **#open-hardware-guild**
+[Repo en GitHub](https://github.com/OSWeekends/guilds.osweekends.com)
 
-## Guild Data Science
-> Guild que quiere desarrollar proyectos dentro del mundo de los datos abietos.
+[V.1.0.](http://guilds.osweekends.com/)
 
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+Canal de Slack: **#proyecto-guilds-web**
 
-Canal de Slack: **#data_science_guild**
 
-## Guild Adalabers
-> Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
-
-### Proyecto Kienba 🙋🏻
-> Proyecto de desarrollo de una herramienta que en una primera fase ayude a facilitar la solicitud de turnos de preguntas y apoyo en talleres, escuelas, universidades...hasta convertirlo quizá en una herramienta para gamificar la experiencia de l@s asistentes a charlas, conferencias...mirar toda info en el repo de GitHub!
-
-Líderes: @Mónica Aguado y @Aida Albarrán
-
-Mentor: @Carlos Azaustre
-
-[Repo de GitHub](https://github.com/OSWeekends/kienba)
-
-Canal de Slack: **#proyectokienba_adalab**
-
-## Guild Fórmula UC3M
-
-### Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
-
-> Mira toda la info en su repo!  🥇
-
-[Repo de GitHub](https://github.com/OSWeekends/formula-uc3m)
-
-[Web Fórmula UC3M](http://formulauc3m.com/)
-
-Canal de Slack: **#formula-uc3m-guild**
-
-> Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
-
-## Guild BlockChain
-> Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
-
-### Proyecto red cooperativa agrícola con BlockChain
-
-**Estar pendientes de la info, es un proyecto por arrancar!**
-
-**Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
-
-## Guild de Agricultura y Sostenibilidad
-> Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
-
-Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
-
-### Proyecto Domotización invernaderos para agricultura sostenible
-
-**Estar pendientes de la info! El proyecto está arrancando!**
-
-[Repo en GitHub](https://github.com/OSWeekends/agricultura-sostenible)
-
-Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
-
-## Guild Kids
-> Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
-
-Canal de Slack: **#Kids_guild**
-
-### Proyecto YABA (Yet Another Blocks Application)
-> YABA es un proyecto que va a crear una aplicación para programar placas controladoras por bloques.
-
-Líder: @Tom Calvo
-
-**Más info y repo por venir**
-
-Canal de Slack: **#proy_yaba_kidsguild**
-
-### Proyecto Read4Kids
-> Proyecto que va a desarrollar una app para que los niñ@s aprendan fácilmente a leer jugando!
-
-[Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
-
-Canal de SLACK: **#pr_read4kids_kidsgld**
-
-### Proyecto OSWeekends Kids (por arrancar)
-
-### Proyecto Kids Guilders (por arrancar)
-
-## Guild Cybersecurity
-> Guild que quiere desarrollar proyectos sobre Ciberseguridad.
-
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
-
-Canal de Slack: **#cibersecurity_guild**
-
-Líder: @Kr0n0
-
-## Guild diseño
-> Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
-
-**Si eres diseñador/a web, UXer, ilustrador@...y quieres trabajar con herramientas y para proyectos Open Source, no dejes de formar parte de este Guild!**
-
-Canal de Slack: **#design_guild**
-
-Líder: @Tokytome
-
-## Guild cRUSTáceos
-> En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
-
-**Seguir atent@s a su canal de Slack en OSW: c_rust_aceos_guild**
-
-### Proyecto Educativo alrededor de Rust (por arrancar)
-> El objetivo es organizar un proyecto educativo con el que iniciarse en el lenguaje RUST.
-
-**Problema**
-
-Rust es un lenguaje de programación difícil de aprender y la barrera de entrada es bastante alta.
-
-**Oportunidad**
-
-Salva (https://twitter.com/salvadelapuente) resucitó el meetup de Madrid Rust la semana pasada. Están comenzando y quieren organizar cosas para fomentar la comunidad.
-
-**Proyecto**
-
-Coger un software sencillo escrito en C/C++ y traducirlo a Rust. Organizarlo como si fuera un proyecto de software serio e ir complicando el proyecto con versiones mejoradas.
-
-Se ha escogido la utilidad grep. Los posibles hitos podrían ser:
-Versión BSD (http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/grep/)
-Versión GNU (http://git.savannah.gnu.org/cgit/grep.git/tree/src/grep.c)
-Versión ACK (https://beyondgrep.com/)
-Versión Silver Searcher (https://geoff.greer.fm/ag/)
-
-**Objetivos**
-
-Aprender Rust
-Leer código C (antiguo o muy antiguo)
-Utilizar GitHub con un flujo de trabajo "educativo"
-Aprender CI haciendo tests y utilizando Travis
-
-**Versión educativa**
-La idea es que sea un proyecto educativo.
-
-El concepto inicial sería montar todos los cambios del proyecto por pull request. Estos pulls estarían "novelados" con los conceptos que se utilizan y estarían abiertos una semana para recibir comentarios y resolver dudas. Una especie de Request For Comments.
-
-Al final de cada hito recopilar un índice de esos pulls para que las siguientes generaciones puedan aprender en un orden legible y organizar una mini-charla de los aprendizajes y avances, etc.
