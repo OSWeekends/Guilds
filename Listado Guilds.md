@@ -231,6 +231,7 @@ Canal de Slack: **#formula-uc3m-guild**
  - Líder/es (usuario GitHub): Elena M. López (@elenamlopez)
  - Guilders (usuario GitHub): Por determinar.
  - Canal de Slack: Por determinar.
+ **Estado**:  Diseño de road-map y backlog
 NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
 ## :interrobang: Guild Kids
