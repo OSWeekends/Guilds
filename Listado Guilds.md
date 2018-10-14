@@ -228,6 +228,9 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 Canal de Slack: **#open-hardware-guild**
 
+### :o: miniestaciones
+- https://github.com/OSWeekends/miniestaciones
+
 
 ## :o: Guild Peluditos
 
