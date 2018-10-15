@@ -37,7 +37,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Data Science](#interrobang-guild-data-science)
 1. :interrobang: [Guild Diseño](#interrobang-guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
-1. :o: [Guild Hacker Space](#0-guild-hacker-space)
+1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :interrobang: [Guild Kids](#interrobang-guild-kids)
 1. :o: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
@@ -226,7 +226,13 @@ Canal de Slack: **#formula-uc3m-guild**
 > Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
 
 
-## :o: Guild Hacker Space
+## :white_check_mark: Guild Hacker Space: Proyecto en fase inicial para montar un espacio físico donde materializar nuestros proyectos.
+ - Descripción finalidad Guild: Organizar y mantener el espacio. 
+ - Líder/es (usuario GitHub): Elena M. López (@elenamlopez)
+ - Guilders (usuario GitHub): Por determinar.
+ - Canal de Slack: Por determinar.
+ **Estado**:  Diseño de road-map y backlog
+NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
 ## :interrobang: Guild Kids
 > Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
