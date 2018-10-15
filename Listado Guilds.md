@@ -264,9 +264,16 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 Mentor: @RicardoGDM
 
 [Repo de GitHub FrontEnd](https://github.com/OSWeekends/EventPoints)
+
 [Repo de GitHub BackEnd](https://github.com/OSWeekends/eventpoints-backend)
 
 Canal de Slack: **#pr_eventpoints_new**
+
+Manera de trabajo basada en issues, milestones... con GitHub
+
+Tecnologías: Back> node con pillars y scrapping con Python; Front> React
+
+Estado: Desarrollo en curso (API funcionando, scrappers y frontend empezando)
 
 **Guilders (usuario Slack)**  
 - @RicardoGDM
