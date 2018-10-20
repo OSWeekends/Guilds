@@ -36,6 +36,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
 1. :interrobang: [Guild Data Science](#interrobang-guild-data-science)
 1. :interrobang: [Guild Diseño](#interrobang-guild-diseño)
+1. :white_check_mark: [Proyecto EventPoints](#interrobang-proyecto-eventpoints)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :interrobang: [Guild Kids](#interrobang-guild-kids)
@@ -263,7 +264,34 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 ### :o: Ideas
 
-### :o: Eventpoints
+## :white_check_mark: Proyecto EventPoints
+- El proyecto EventPoints va a centralizar en un calendario único todos los eventos tecnológicos de interés para OWS. El 'core business' del proyecto son una serie de scrappers en Python que se encargarán de recoger los eventos de interés de diferentes orígenes de datos. Posteriormente mostraremos dichos datos en un calendario con su geolocalización y demás ;)
+- Repositorios: 
+	- [Eventpoints-backend](https://github.com/OSWeekends/eventpoints-backend)
+	- [Eventpoints-frontend](https://github.com/OSWeekends/EventPoints)
+- Tecnología: React + Python + Goblin DB
+- Facilitador:
+	- Ricardo García-Duarte (Slack:@RicardoGDM / GitHub:[@rgarciaduarte](https://github.com/rgarciaduarte))
+- Equipo activo & contribuidores:
+	- Adel Zarrouk (Slack:@Adel / GitHub:[@eidal](https://github.com/eidal))
+	- Alba Hernández (Slack:@Albita / GitHub:[@Albametnet](https://github.com/Albametnet))
+	- Alvaro Linares 'Chamo' (Slack:@Alvaro 'Chamo' Linares Cabre / GitHub:[@alvarolinarescabre](https://github.com/alvarolinarescabre))
+	- Anna Branco (Slack:@Anna / GitHub:[@annabranco](https://github.com/annabranco))
+	- Antonio Sejas (Slack:@Sejas / GitHub:[@sejas](https://github.com/sejas))
+	- Carlos Fernandez (Slack:@carlosfdez / GitHub:[@carlosfdev](https://github.com/carlosfdev))
+	- Daniel García Jones (Slack:@DGJones / GitHub:[@danielgj](https://github.com/danielgj))
+	- Gema De Rus (Slack:@gemaderus / GitHub:[@gemaderus](https://github.com/gemaderus))
+	- Leyla Vieira (Slack:@leyla)
+	- Loreto Vaquero (Slack:@lvaquero / GitHub:[@VaqueroFontenla](https://github.com/VaqueroFontenla))
+	- Lucas Bernalte (Slack:@lucasbernalte / GitHub:[@lucbpz](https://github.com/lucbpz))
+	- Sebastian Cabanas (Slack:@Sebastiancbvz)
+- Mentores:
+	- Jorge Baumann (Slack:@jbaumann / GitHub:[@baumannzone](https://github.com/baumannzone))
+	- Ricardo García-Duarte (Slack:@RicardoGDM / GitHub:[@rgarciaduarte](https://github.com/rgarciaduarte))
+	- Theba Gomez (Slack:@KoolTheba / GitHub:[@KoolTheba](https://github.com/KoolTheba))
+	- Ulises Gascon (Slack:@ulisesgascon / GitHub:[@UlisesGascon](https://github.com/UlisesGascon))
+- Canal de Slack: **#pr_eventpoints_new**
+- **Estado: Creando scrappers y primeros componentes de front. Primeros commits y puesta en marcha. Esperando unificación a estilos OSW.**
 
 ## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
