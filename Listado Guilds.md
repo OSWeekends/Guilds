@@ -28,7 +28,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 
 1. :interrobang: [Guild 24](#interrobang-guild-24)
 1. :white_check_mark: [Guild Adalabers](#interrobang-guild-adalabers)
-1. :interrobang: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
+1. :white_check_mark: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo) 
 1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
 1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
@@ -112,14 +112,14 @@ Mentor: @Carlos Azaustre
 Canal de Slack: **#proyectokienba_adalab**
 
 
-## :interrobang: Guild de Agricultura y Sostenibilidad
+## :white_check_mark: Guild de Agricultura y Sostenibilidad
 > Este Guild trabaja en proyectos para fomentar la sostenibilidad de los recursos agrícolas y poner la tecnología a su servicio.
 
 Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 
-### :interrobang: Proyecto Domotización invernaderos para agricultura sostenible
+### :white_check_mark: Proyecto Domotización invernaderos para agricultura sostenible
 
-**Estar pendientes de la info! El proyecto está arrancando!**
+⚠️ **Esperamos comenzar este proyecto a finales del 2018 cuando tengamos funcionando nuestro Hacker Space en La Nave**
 
 [Repo en GitHub](https://github.com/OSWeekends/agricultura-sostenible)
 
