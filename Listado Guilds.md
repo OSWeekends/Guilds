@@ -131,6 +131,7 @@ Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 > Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas. 
 
 [Repo en GitHub](https://github.com/OSWeekends/arte-interactivo)
+
 Canal de Slack: Guild-inter-art
 
 #### Bases
@@ -158,11 +159,11 @@ Canal de Slack: Guild-inter-art
 - Ricardo (Lider)
 - Gloria (Software)
 - Gonzalo (SW/HW)
-- Santiago (SW)
+- @trigoporres Santiago (SW)
 - @UlisesGascon (Apoyo)
 - Alicia y Esperanza (SW/HW)
 - @KoolTheba (SW y PM)
-- Ruben (HW/SW) *desde noviembre únicamente*
+- @rubenmoreno94 Ruben (HW/SW) *desde noviembre únicamente*
 
 
 ## :interrobang: Guild BlockChain
