@@ -27,7 +27,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 
 
 1. :interrobang: [Guild 24](#interrobang-guild-24)
-1. :interrobang: [Guild Adalabers](#interrobang-guild-adalabers)
+1. :white_check_mark: [Guild Adalabers](#interrobang-guild-adalabers)
 1. :interrobang: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo) 
 1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
@@ -95,11 +95,13 @@ Canal de Slack: **#proyecto-memezinga**
 ### :o: know-your-SNPs
 - https://github.com/OSWeekends/know-your-SNPs
 
-## :interrobang: Guild Adalabers
+## :white_check_mark: Guild Adalabers
 > Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
 
-### :interrobang: Proyecto Kienba 🙋🏻
+### :white_check_mark: Proyecto Kienba 🙋🏻
 > Proyecto de desarrollo de una herramienta que en una primera fase ayude a facilitar la solicitud de turnos de preguntas y apoyo en talleres, escuelas, universidades...hasta convertirlo quizá en una herramienta para gamificar la experiencia de l@s asistentes a charlas, conferencias...mirar toda info en el repo de GitHub!
+
+⚠️ ATENCIÓN! Proyecto en Stand-by...¿te parece una idea interesante?¿quieres recuperarlo? Escríbenos a @KoolTheba o @UlisesGascon en Slack. 
 
 Líderes: @Mónica Aguado y @Aida Albarrán
 
