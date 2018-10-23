@@ -47,7 +47,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Salud](#interrobang-guild-salud)
 1. :o: [Guild Sistemas](#o-guild-sistemas)
 1. :interrobang: [Guild Welcome](#interrobang-guild-welcome)
-1. :interrobang: [Guild Wild West](#interrobang-guild-wild-west)
+1. :white_check_mark: [Guild Wild West](#interrobang-guild-wild-west)
 1. :white_check_mark:[MetaGuild](#interrobang-metaguild)
 
 #### LEYENDA
@@ -497,7 +497,7 @@ No se necesita colaboración 👺
 [Welcome to OSW!](http://welcome.osweekends.com/)
 
 
-## :interrobang: Guild Wild West
+## :white_check_mark: Guild Wild West
 > Este Guild recoge lo *mejorcito* de los proyectos con los que se inició Open Source Weekends. Los proyectos están muy avanzados pero estamos pensando nuevas releases que con tu ayuda las haremos realidad!
 
 ### :interrobang: Ginger Code
