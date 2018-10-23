@@ -42,7 +42,7 @@ Los Guilders van actualizando la info de manera autÃ³noma; si necesitas saber mÃ
 1. :interrobang: [Guild Kids](#interrobang-guild-kids)
 1. :o: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
-1. :o: [Guild Peluditos](#o-guild-peluditos)
+1. :white_check_mark: [Guild Peluditos](#o-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#interrobang-guild-open-hardware)
 1. :interrobang: [Guild Salud](#interrobang-guild-salud)
