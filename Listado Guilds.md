@@ -49,7 +49,7 @@ Los Guilders van actualizando la info de manera autÃ³noma; si necesitas saber mÃ
 1. :o: [Guild Sistemas](#o-guild-sistemas)
 1. :interrobang: [Guild Welcome](#interrobang-guild-welcome)
 1. :interrobang: [Guild Wild West](#interrobang-guild-wild-west)
-1. :interrobang: [MetaGuild](#interrobang-metaguild)
+1. :white_check_mark:[MetaGuild](#interrobang-metaguild)
 
 #### LEYENDA
 
