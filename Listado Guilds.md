@@ -124,10 +124,10 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 
-## :white_check_mark: Guild Arte Interactivo y Programación Creativa 
+## Guild Arte Interactivo y Programación Creativa :white_check_mark:
 > Guild dedicado a llevar la programación a su máximo de creatividad, usándolo para crear obras de arte interactivo. 
 
-### :white_check_mark: Proyecto 1 Arte Interactivo
+### Proyecto 1 Arte Interactivo :white_check_mark:
 > Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas. 
 
 [Repo en GitHub](https://github.com/OSWeekends/arte-interactivo)
