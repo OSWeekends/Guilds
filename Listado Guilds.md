@@ -1,4 +1,4 @@
-# Listado de Guilds [Updated 14/10/2018]
+# Listado de Guilds [Updated 23/10/2018]
 
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓 (👉nos encanta leer nuestros orígenes!!)
 
