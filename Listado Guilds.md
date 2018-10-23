@@ -36,7 +36,6 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
 1. :interrobang: [Guild Data Science](#interrobang-guild-data-science)
 1. :interrobang: [Guild Diseño](#interrobang-guild-diseño)
-1. :white_check_mark: [Proyecto EventPoints](#interrobang-proyecto-eventpoints)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
@@ -319,9 +318,9 @@ Usabilidad, research y Develppment -> @KoolTheba
 
 ## :white_check_mark: Guild Newbies/Prospects
 > Este es nuestro Guild para vosotr@s que venís por 1ª vez a los Guilds !! Bienvenid@s!! 
-La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mola el ser Guilder y así meteros en proyectos más largos. 👩‍🎤 👨‍🎤Hail 2 the Newbies Guild!! 
+La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mola el ser Guilder y así meteros en proyectos más largos. No importa tu nivel y conocimiento. 👩‍🎤 👨‍🎤Hail 2 the Prospects Guild!! 
 
-### :o: Ideas
+### :o: Proyecto Ideas
 
 ### :white_check_mark: Proyecto EventPoints
 - El proyecto EventPoints va a centralizar en un calendario único todos los eventos tecnológicos de interés para OWS. El 'core business' del proyecto son una serie de scrappers en Python que se encargarán de recoger los eventos de interés de diferentes orígenes de datos. Posteriormente mostraremos dichos datos en un calendario con su geolocalización y demás ;)
