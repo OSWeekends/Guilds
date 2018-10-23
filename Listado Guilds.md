@@ -264,7 +264,7 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 ### :o: Ideas
 
-## :white_check_mark: Proyecto EventPoints
+### :white_check_mark: Proyecto EventPoints
 - El proyecto EventPoints va a centralizar en un calendario único todos los eventos tecnológicos de interés para OWS. El 'core business' del proyecto son una serie de scrappers en Python que se encargarán de recoger los eventos de interés de diferentes orígenes de datos. Posteriormente mostraremos dichos datos en un calendario con su geolocalización y demás ;)
 - Repositorios: 
 	- [Eventpoints-backend](https://github.com/OSWeekends/eventpoints-backend)
@@ -296,7 +296,7 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 ## :interrobang: Guild Open Hardware
 > Guild que quiere desarrollar proyectos relacionados con el movimiento maker - Hardware Open Source!
 
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+**Proyectos en marcha: Miniestaciones calidad del aire 🤩**
 
 Canal de Slack: **#open-hardware-guild**
 
@@ -304,7 +304,7 @@ Canal de Slack: **#open-hardware-guild**
 - https://github.com/OSWeekends/miniestaciones
 
 
-## Guild Peluditos
+## :white_check_mark: Guild Peluditos
 
 ### URL Repositorio:
   (https://github.com/OSWeekends/peluditos-project)
@@ -358,6 +358,7 @@ Desarrollaremos el proyecto en varias fases:
 
 ### Canal de slack:
    #guild_peluditos 
+   
 
 ## :interrobang: Guild ROL Gaming
 - **Descripción:**
@@ -422,7 +423,7 @@ Líder: Jorge Vidal
 
 Canal de Slack: **#proyecto-goku-cloud**
 
-### :o: status.osweekends.com
+### :white_check_mark: status.osweekends.com
 
 
 ## :interrobang: Guild Welcome
