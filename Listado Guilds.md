@@ -39,9 +39,9 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Proyecto EventPoints](#interrobang-proyecto-eventpoints)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
-1. :interrobang: [Guild Kids](#interrobang-guild-kids)
+1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
 1. :white_check_mark: [Guild Legal](#0-guild-legal)
-1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
+1. :white_check_mark: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
 1. :white_check_mark: [Guild Peluditos](#o-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
 1. :interrobang: [Guild Open Hardware](#interrobang-guild-open-hardware)
@@ -299,6 +299,7 @@ Líder: @Fa-v
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
 
+
 ## :white_check_mark: Guild Legal
 > Guild que cuenta con la colaboración de Elen (@Lawlesscodelen) aboagada especializada y amante del Open Source. En el canal de Slack (guild-legal) podemos hacerle cualquier tipo de consulta.  
 
@@ -316,7 +317,9 @@ Usabilidad, research y Develppment -> @KoolTheba
 [Repo en GitHub](https://github.com/KoolTheba/Easy-Licenses) - por hacer público ya que estamos en fase de planificación. 
 
 
-## :o: Guild Newbies/Prospects
+## :white_check_mark: Guild Newbies/Prospects
+> Este es nuestro Guild para vosotr@s que venís por 1ª vez a los Guilds !! Bienvenid@s!! 
+La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mola el ser Guilder y así meteros en proyectos más largos. 👩‍🎤 👨‍🎤Hail 2 the Newbies Guild!! 
 
 ### :o: Ideas
 
