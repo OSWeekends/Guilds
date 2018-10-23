@@ -417,17 +417,24 @@ Canal de Slack: **#guild_salud**
 
 
 ### :interrobang: Proyecto Goku
-> Infraestructura en Cloud para todos los proyectos de los Guilds
+> Infraestructura en Cloud para todos los proyectos de los Guilds. 
 
 Líder: Jorge Vidal
 
 Canal de Slack: **#proyecto-goku-cloud**
 
-### :white_check_mark: status.osweekends.com
+### :white_check_mark: status.osweekends.com 
+> Web en la que podremos ver el status de las disferentes webs de los proyectos creados por los Guilders en comunidad. 
+Prevista para: Nov 2018. 
 
+Líder: @KoolTheba
+Front: @KoolTheba
+Back-end: @UlisesGascon
 
-## :interrobang: Guild Welcome
-### :interrobang: Proyecto web Welcome OSWeekends (finalizado)
+No se necesita colaboración 👺
+
+## :white_check_mark: Guild Welcome
+### :white_check_mark: Proyecto web Welcome OSWeekends (finalizado)
 
 [Welcome to OSW!](http://welcome.osweekends.com/)
 
