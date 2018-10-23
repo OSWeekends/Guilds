@@ -29,7 +29,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild 24](#interrobang-guild-24)
 1. :interrobang: [Guild Adalabers](#interrobang-guild-adalabers)
 1. :interrobang: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
-1. [Guild Arte Interactivo](#o-guild-arte-interactivo) :white_check_mark:
+1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo) 
 1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
 1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
@@ -124,10 +124,10 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 
-## Guild Arte Interactivo y Programación Creativa :white_check_mark:
+## :white_check_mark: Guild Arte Interactivo y Programación Creativa 
 > Guild dedicado a llevar la programación a su máximo de creatividad, usándolo para crear obras de arte interactivo. 
 
-### Proyecto 1 Arte Interactivo :white_check_mark:
+### :white_check_mark: Proyecto 1 Arte Interactivo 
 > Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas. 
 
 [Repo en GitHub](https://github.com/OSWeekends/arte-interactivo)
