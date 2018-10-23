@@ -276,7 +276,7 @@ Canal de Slack: **#formula-uc3m-guild**
  **Estado**:  Diseño de road-map y backlog
 NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
-## :interrobang: Guild Kids
+## :white_check_mark: Guild Kids
 > Este Guild está enfocado a desarrollar proyectos para peques, especialmente centrados en educación, robótica, talleres presenciales en los eventos de OSW, montar Guilds para niñxs y adolescentes...es el que más proyectos tiene, ¿quieres unirte a alguno?👦🏻 👧🏻
 
 Canal de Slack: **#Kids_guild**
@@ -294,6 +294,8 @@ Canal de Slack: **#proy_yaba_kidsguild**
 > Proyecto que va a desarrollar una app para que los niñ@s aprendan fácilmente a leer jugando!
 
 [Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
+
+Líder: @Fa-v
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
 
