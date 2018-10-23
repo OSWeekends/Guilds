@@ -29,7 +29,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild 24](#interrobang-guild-24)
 1. :interrobang: [Guild Adalabers](#interrobang-guild-adalabers)
 1. :interrobang: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
-1. :o: [Guild Arte Interactivo](#o-guild-arte-interactivo)
+1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo)
 1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
 1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
@@ -124,7 +124,45 @@ Canal de Slack para proponer nuevos proyectos o unirte: **#guild-agricultura**
 Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 
-## :o: Guild Arte Interactivo
+## :white_check_mark: Guild Arte Interactivo y Programación Creativa 
+> Guild dedicado a llevar la programación a su máximo de creatividad, usándolo para crear obras de arte interactivo. 
+
+### :white_check_mark: Proyecto 1 Arte Interactivo
+> Con este primer proyecto arrancamos el Guild (Oct-2018). Queremos que a través de la vista, la voz y el cuerpo experimente sensaciones únicas. 
+
+[Repo en GitHub](https://github.com/OSWeekends/arte-interactivo)
+Canal de Slack: Guild-inter-art
+
+#### Bases
+- Generar obras interactivas y únicas con la biometría de las personas
+- Controvertidas
+- Incensurables
+
+#### Objetivos Actuales
+- Generar una serie de obras que puedan funcionar en un recorrido - exposición 
+- Cada obra debería de explorar la biometría de la persona y ser interactiva
+- Cada obra debe generar un resultado único basado en la biometría de esa persona
+
+#### Prioridades actuales
+- Generar un plan de proyecto y de trabajo
+- Empezar el rodaje del equipo
+- Lanzar el promer proyecto MVP para Noviembre/Diciembre 2018
+
+#### Herramientas tecnológicas
+- Arduino + sensores 
+- Python y/o Nodejs
+- HTML, CSS y JS
+- Librerías especiales (d3, three, processing, p5, etc...)
+
+### Miembros del Guild
+- Ricardo (Lider)
+- Gloria (Software)
+- Gonzalo (SW/HW)
+- Santiago (SW)
+- @UlisesGascon (Apoyo)
+- Alicia y Esperanza (SW/HW)
+- @KoolTheba (SW y PM)
+- Ruben (HW/SW) *desde noviembre únicamente*
 
 
 ## :interrobang: Guild BlockChain
