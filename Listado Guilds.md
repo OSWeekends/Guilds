@@ -591,4 +591,28 @@ Líder:
 
 Canal de Slack: **#proyecto-guilds-web**
 
+### :white_check_mark: Proyecto web vanity.osweekends.com
+> Web en la que nos volvemos más vanidosas que nunca y mostramos en números el amor de la comunidad OSW. 
+
+Estado: Por empezar. API con los datos creada. 
+
+Demo time en Noviembre 2018. 
+
+No se necesita colaboración 👺
+
+Lideres:
+@KoolTheba
+@UlisesGascon
+
+[Repo en GitHub](https://github.com/OSWeekends/vanity.osweekends.com)
+
+
+
+
+
+
+
+
+
+
 
