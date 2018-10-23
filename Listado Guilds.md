@@ -469,7 +469,7 @@ No se necesita colaboración 👺
 	- [GingerCode/Art](https://github.com/GingerCode/Art), Branding, Logos, etc...
 
 
-### :interrobang: Proyecto Goblin DB
+### :white_check_mark: Proyecto Goblin DB
 > An amazing, simple and fun database for humans
 
 Proyecto innovador, en proceso de evolución, en la que vamos soltando nuestra creatividad y pasando un buen rato. Además funciona bastante bien como caché o para temas de scraping (para no abusar de hacer demasiadas peticiones a un endpoint puedes salvar los resultados en goblin y la refrescar cada cierto tiempo).
@@ -498,7 +498,7 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 	- [GoblinDBRocks/GoblinDBRocks.github.io](https://github.com/GoblinDBRocks/GoblinDBRocks.github.io), GoblinDB website
 	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
 
-## :interrobang: MetaGuild
+## :white_check_mark: MetaGuild
 > Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
 
 Líderes:
@@ -508,7 +508,7 @@ Líderes:
 **Grupo cerrado, aunque siempre puedes preguntar para unirte a alguno de los proyectos!**
 
 ### :interrobang: Proyecto Recursos OSW
-> Web que quiere recoger todos los recursos que se vuelcan en el Slack de OSW
+> Web que quiere recoger todos los recursos que se vuelcan en el Slack de OSW.
 
 [Repo en GitHub](https://github.com/OSWeekends/recursos.osweekends.com)
 
@@ -517,12 +517,15 @@ Líder:
 
 Canal de Slack: **#proyecto-recursos**
 
-### :interrobang: Proyecto web guilds.osweekends.com
-> Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...
+### :white_check_mark: Proyecto web guilds.osweekends.com
+> Web en la que se visualizarán todos los proyectos que desarrollan los Guilders, su estado, componentes...además se añadirá una capa de gamificación y ayudarán a ls nuevs Guilders a unirse! 
 
-Líderes:
-@lilxelo
-@bifuer
+Estado: construido el BackEnd y parte del Front aunque no está subida a producción. Se empezará la fase 2 en Diciembre 2018 para que esté lista en Abril/Mayo 2019. 
+
+No se necesita colaboración 👺
+
+Líder:
+@KoolTheba
 
 [Repo en GitHub](https://github.com/OSWeekends/guilds.osweekends.com)
 
