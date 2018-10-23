@@ -310,10 +310,8 @@ La razón de ser de este proyecto es la difícil y compleja toma de decisión a 
 Con el objetivo de facilitar a los usuarios los quebraderos de cabeza que pueden generar las licencias de software, queremos facilitar la elección de las licencias en un lenguaje llano y en un formato intuitivo. Y en castellano 😎. 
 
 Líderes:
-
-Legal, research y usabilidad -> @Lawlesscodelen
-
-Usabilidad, research y Develppment -> @KoolTheba
+- Legal, research y usabilidad -> @Lawlesscodelen
+- Usabilidad, research y Development -> @KoolTheba
 
 [Repo en GitHub](https://github.com/KoolTheba/Easy-Licenses) - por hacer público ya que estamos en fase de planificación. 
 
