@@ -487,9 +487,9 @@ Canal de Slack: **#proyecto-goku-cloud**
 > Web en la que podremos ver el status de las disferentes webs de los proyectos creados por los Guilders en comunidad. 
 Prevista para: Nov 2018. 
 
-Líder: @KoolTheba
-Front: @KoolTheba
-Back-end: @UlisesGascon
+- Líder: @KoolTheba
+- Front: @KoolTheba
+- Back-end: @UlisesGascon
 
 No se necesita colaboración 👺
 
@@ -562,8 +562,8 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 > Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
 
 Líderes:
-@KoolTheba
-@UlisesGascon
+- @KoolTheba
+- @UlisesGascon
 
 **Grupo cerrado, aunque siempre puedes preguntar para unirte a alguno de los proyectos!**
 
@@ -585,6 +585,7 @@ Estado: construido el BackEnd y parte del Front aunque no está subida a producc
 No se necesita colaboración 👺
 
 Líder:
+
 @KoolTheba
 
 [Repo en GitHub](https://github.com/OSWeekends/guilds.osweekends.com)
