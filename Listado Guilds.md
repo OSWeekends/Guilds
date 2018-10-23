@@ -158,12 +158,12 @@ Canal de Slack: Guild-inter-art
 - Librerías especiales (d3, three, processing, p5, etc...)
 
 ### Miembros del Guild
-- Ricardo (Lider)
-- Gloria (Software)
-- Gonzalo (SW/HW)
+- @RicCaralca Ricardo (Lider)
+- @gloriavazquez Gloria (Software)
+- @guceda Gonzalo (SW/HW)
 - @trigoporres Santiago (SW)
 - @UlisesGascon (Apoyo)
-- Alicia y Esperanza (SW/HW)
+- @AliciayEsperanza (SW/HW)
 - @KoolTheba (SW y PM)
 - @rubenmoreno94 Ruben (HW/SW) *desde noviembre únicamente*
 
