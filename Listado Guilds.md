@@ -40,7 +40,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :interrobang: [Guild Kids](#interrobang-guild-kids)
-1. :o: [Guild Legal](#0-guild-legal)
+1. :white_check_mark: [Guild Legal](#0-guild-legal)
 1. :o: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
 1. :white_check_mark: [Guild Peluditos](#o-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
@@ -256,9 +256,22 @@ Canal de Slack: **#proy_yaba_kidsguild**
 
 Canal de SLACK: **#pr_read4kids_kidsgld**
 
-## :o: Guild Legal
+## :white_check_mark: Guild Legal
+> Guild que cuenta con la colaboración de Elen (@Lawlesscodelen) aboagada especializada y amante del Open Source. En el canal de Slack (guild-legal) podemos hacerle cualquier tipo de consulta.  
 
-### :o: Proyecto Easy Licenses
+### :white_check_mark: Proyecto Easy Licenses
+> Proyecto para crear una aplicación web que facilite a todo el mundo la elección de una licencia FOSS para sus proyectos.
+
+La razón de ser de este proyecto es la difícil y compleja toma de decisión a la que un desarrollador puede enfrentarse a la hora de escoger la mejor licencia que se adapte a sus necesidades.
+
+Con el objetivo de facilitar a los usuarios los quebraderos de cabeza que pueden generar las licencias de software, queremos facilitar la elección de las licencias en un lenguaje llano y en un formato intuitivo. Y en castellano 😎. 
+
+Líderes: 
+Legal, research y usabilidad -> @Lawlesscodelen
+Usabilidad, research y Develppment -> @KoolTheba
+
+[Repo en GitHub](https://github.com/KoolTheba/Easy-Licenses) - por hacer público ya que estamos en fase de planificación. 
+
 
 ## :o: Guild Newbies/Prospects
 
