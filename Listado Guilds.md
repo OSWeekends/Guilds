@@ -27,7 +27,7 @@ Los Guilders van actualizando la info de manera autÃ³noma; si necesitas saber mÃ
 
 
 1. :interrobang: [Guild 24](#interrobang-guild-24)
-1. :white_check_mark: [Guild Adalabers](#interrobang-guild-adalabers)
+1. :white_check_mark: [Guild Adalabers](#white_check_mark-guild-adalabers)
 1. :white_check_mark: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo) 
 1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
