@@ -49,6 +49,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Welcome](#interrobang-guild-welcome)
 1. :white_check_mark: [Guild Wild West](#interrobang-guild-wild-west)
 1. :white_check_mark:[MetaGuild](#interrobang-metaguild)
+1. [Guild de ideas](#guild-de-ideas)
 
 #### LEYENDA
 
@@ -643,6 +644,23 @@ Lideres:
 @UlisesGascon
 
 [Repo en GitHub](https://github.com/OSWeekends/vanity.osweekends.com)
+
+### Guild de ideas
+> Este guild tiene dos objetivos. Por un lado, pretende formar a los perfiles más junior de OSW y por otro, generar una aplicación web para la gestión de las propuestas que se dan dentro de esta comunidad.
+
+Estado: proyecto por empezar. Sus miembros se están formando.
+
+Demo time: los sprints serán de un mes y se presentará demo y estado del proyecto el último sábado de cada mes.
+
+Mentor: @ardiadrianadri
+
+Guilders: 
+@sarnaizgarcia
+@abelespana
+Jessica (pendiente de unirse al Slack)
+Guillermo (pendiente de unirse al Slack)
+
+
 
 
 
