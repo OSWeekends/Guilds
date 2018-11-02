@@ -275,12 +275,16 @@ Canal de Slack: **#guild-formula-uc3m**
 
 Canal Slack: #pr_datos_formulauc3m
 
-## :white_check_mark: Guild Hacker Space: Proyecto en fase inicial para montar un espacio físico donde materializar nuestros proyectos.
+## :white_check_mark: Guild Hacker Space
+> Proyecto en fase inicial para montar un espacio físico donde materializar nuestros proyectos, especialmente a nivel de Hardware. 
+
  - Descripción finalidad Guild: Organizar y mantener el espacio. 
  - Líder/es (usuario GitHub): Elena M. López (@elenamlopez)
  - Guilders (usuario GitHub): Por determinar.
  - Canal de Slack: Por determinar.
- **Estado**:  Diseño de road-map y backlog
+ 
+**Estado**:  Diseño de road-map y backlog. 
+ 
 NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
 ## :white_check_mark: Guild Kids
