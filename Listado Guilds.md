@@ -301,7 +301,7 @@ Líder: @Tom Calvo
 
 Canal de Slack: **#proy_yaba_kidsguild**
 
-### :interrobang: Proyecto Read4Kids
+### :white_check_mark: Proyecto Read4Kids
 > Proyecto que va a desarrollar una app para que los niñ@s aprendan fácilmente a leer jugando!
 
 [Repo en GitHub](https://github.com/OSWeekends/read-for-kids)
@@ -320,6 +320,8 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 La razón de ser de este proyecto es la difícil y compleja toma de decisión a la que un desarrollador puede enfrentarse a la hora de escoger la mejor licencia que se adapte a sus necesidades.
 
 Con el objetivo de facilitar a los usuarios los quebraderos de cabeza que pueden generar las licencias de software, queremos facilitar la elección de las licencias en un lenguaje llano y en un formato intuitivo. Y en castellano 😎. 
+
+Colaboración con No Legal Tech para los contenidos y consultoría. 
 
 Líderes:
 - Legal, research y usabilidad -> @Lawlesscodelen
