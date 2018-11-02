@@ -40,7 +40,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
 1. :white_check_mark: [Guild Legal](#white_check_mark-guild-legal)
-1. :white_check_mark: [Guild Newbies/Prospects](#white_check_mark-guild-newbies-prospects)
+1. :white_check_mark: [Guild Newbies](#white_check_mark-guild-newbies)
 1. :white_check_mark: [Guild Peluditos](#white_check_mark-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
 1. :white_check_mark: [Guild Open Hardware](#white_check_mark-guild-open-hardware)
@@ -330,7 +330,7 @@ Líderes:
 [Repo en GitHub](https://github.com/KoolTheba/Easy-Licenses) - por hacer público ya que estamos en fase de planificación. 
 
 
-## :white_check_mark: Guild Newbies/Prospects
+## :white_check_mark: Guild Newbies
 > Este es nuestro Guild para vosotr@s que venís por 1ª vez a los Guilds !! Bienvenid@s!! 
 La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mola el ser Guilder y así meteros en proyectos más largos. No importa tu nivel y conocimiento. 👩‍🎤 👨‍🎤Hail 2 the Prospects Guild!! 
 
@@ -374,7 +374,7 @@ El 'core business' del proyecto son una serie de scrappers en Python que se enca
 ## :white_check_mark: Guild Peluditos
 
 ### URL Repositorio:
-  (https://github.com/OSWeekends/peluditos-project)
+  (https://github.com/OSW-Peludos/peluditos-project)
 
 ### Descripción:
 
