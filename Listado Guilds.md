@@ -44,8 +44,8 @@ Los Guilders van actualizando la info de manera autÃ³noma; si necesitas saber mÃ
 1. :white_check_mark: [Guild Peluditos](#white_check_mark-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
 1. :white_check_mark: [Guild Open Hardware](#white_check_mark-guild-open-hardware)
-1. :interrobang: [Guild Salud](#interrobang-guild-salud)
-1. :o: [Guild Sistemas](#o-guild-sistemas)
+1. :white_check_mark: [Guild Salud](#white_check_mark-guild-salud)
+1. :white_check_mark: [Guild Sistemas](#white_check_mark-guild-sistemas)
 1. :interrobang: [Guild Welcome](#interrobang-guild-welcome)
 1. :white_check_mark: [Guild Wild West](#interrobang-guild-wild-west)
 1. :white_check_mark:[MetaGuild](#interrobang-metaguild)
@@ -527,8 +527,8 @@ Canal de Slack: **#pr_rol_gaming**
 Canal de Slack: **#guild_salud**
 
 
-## :o: Guild Sistemas
-
+## :white_check_mark: Guild Sistemas
+> Guild de tipo trasversal que se encarga de crear y mantener el sistema de Cloud y de meter en CI/CD los proyectos de OSW que ya sean productivos.
 
 ### :interrobang: Proyecto Goku
 > Infraestructura en Cloud para todos los proyectos de los Guilds. 
