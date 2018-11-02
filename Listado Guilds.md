@@ -370,53 +370,6 @@ El 'core business' del proyecto son una serie de scrappers en Python que se enca
 
 - **Estado: Creando scrappers y primeros componentes de front. Primeros commits y puesta en marcha. Esperando unificación a estilos OSW.**
 
-## :white_check_mark: Guild Open Hardware
-> ¡El hardware también puede ser Open Source! Guild que quiere impulsar los [principios del movimiento maker](https://hacedores.com/manifiesto-maker/) dentro de OSW y acoger proyectos relacionados con el mundo maker.
-
-### :white_check_mark: Proyecto: Miniestaciones de medición de calidad del aire en interiores 🤩**
-
-#### Descripción:
-Mini estaciones maker de sensores para medir diferentes gases y contaminantes presentes en el aire en tiempo real.
-
-⚠️ **Esperamos comenzar este proyecto a finales del 2018 cuando tengamos funcionando nuestro Hacker Space en La Nave**
-
-*Motivación:* 
-- Preocupación sobre la calidad del aire en las ciudades. Conciencia medioambiental.
-- Datos abiertos sobre la calidad del aire del ayuntamiento de Madrid. Estaciones limitadas y datos incompletos. Grandes zonas sin monitorización.
-- Falta de datos de calidad del aire en interiores.
-- Aprender a construir proyectos hardware desde cero.
-  
-*Fases del proyecto:* [Draft Roadmap](https://github.com/OSWeekends/miniestaciones/issues/2)
-
-  * Fase 1 - Definición inicial del proyecto:
-    - Captación de equipo
-    - Problemáticas y naturalieza del proyecto
-    - Casos de uso
-    - Asignación de roles y modularización del proyecto
-    - Definiciñon inicial de fases del proyecto. Roadmap
-
-  * Fase 2: Investigación
-	* Analizar datos de calidad del aire
-	* Estudios sobre gases contaminantes
-	* Sensores de gases y consideraciones hardware
-	* Escoger tecnologías para procesar datos de sensores
-	* Escoger tecnologías para visualizar datos de sensores
-
-  * Fase 3: Prototipado
-
-  * Fase 4: Fase de testeo y documentación
-
-  * Fase 5: Difusión del proyecto 
-
-#### Líder: @smorcuend (_serxius_)
-
-#### Componentes:
- -  
-
-#### URL Repositorio: https://github.com/OSWeekends/miniestaciones
-#### URL Wiki: https://github.com/OSWeekends/miniestaciones/wiki
-#### Canal de Slack para sumarte y colaborar: **#open-hardware-guild**
-
 
 ## :white_check_mark: Guild Peluditos
 
@@ -470,8 +423,55 @@ Desarrollaremos el proyecto en varias fases:
   * @xexuline
   * @momantai
 
-### Canal de slack:
-   #guild_peluditos 
+**Canal de slack: #guild_peluditos**
+   
+   
+## :white_check_mark: Guild Open Hardware
+> ¡El hardware también puede ser Open Source! Guild que quiere impulsar los [principios del movimiento maker](https://hacedores.com/manifiesto-maker/) dentro de OSW y acoger proyectos relacionados con el mundo maker.
+
+### :white_check_mark: Proyecto: Miniestaciones de medición de calidad del aire en interiores 🤩**
+
+#### Descripción:
+Mini estaciones maker de sensores para medir diferentes gases y contaminantes presentes en el aire en tiempo real.
+
+⚠️ **Esperamos comenzar este proyecto a finales del 2018 cuando tengamos funcionando nuestro Hacker Space en La Nave**
+
+*Motivación:* 
+- Preocupación sobre la calidad del aire en las ciudades. Conciencia medioambiental.
+- Datos abiertos sobre la calidad del aire del ayuntamiento de Madrid. Estaciones limitadas y datos incompletos. Grandes zonas sin monitorización.
+- Falta de datos de calidad del aire en interiores.
+- Aprender a construir proyectos hardware desde cero.
+  
+*Fases del proyecto:* [Draft Roadmap](https://github.com/OSWeekends/miniestaciones/issues/2)
+
+  * Fase 1 - Definición inicial del proyecto:
+    - Captación de equipo
+    - Problemáticas y naturalieza del proyecto
+    - Casos de uso
+    - Asignación de roles y modularización del proyecto
+    - Definiciñon inicial de fases del proyecto. Roadmap
+
+  * Fase 2: Investigación
+	* Analizar datos de calidad del aire
+	* Estudios sobre gases contaminantes
+	* Sensores de gases y consideraciones hardware
+	* Escoger tecnologías para procesar datos de sensores
+	* Escoger tecnologías para visualizar datos de sensores
+
+  * Fase 3: Prototipado
+
+  * Fase 4: Fase de testeo y documentación
+
+  * Fase 5: Difusión del proyecto 
+
+#### Líder: @smorcuend (_serxius_)
+
+#### Componentes:
+ -  
+
+#### URL Repositorio: https://github.com/OSWeekends/miniestaciones
+#### URL Wiki: https://github.com/OSWeekends/miniestaciones/wiki
+#### Canal de Slack para sumarte y colaborar: **#open-hardware-guild**
    
 
 ## :interrobang: Guild ROL Gaming
