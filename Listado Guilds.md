@@ -39,7 +39,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild Fórmula UC3M](#white-check-mark-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
-1. :white_check_mark: [Guild Legal](#0-guild-legal)
+1. :white_check_mark: [Guild Legal](#white_check_mark-guild-legal)
 1. :white_check_mark: [Guild Newbies/Prospects](#o-guild-newbies-prospects)
 1. :white_check_mark: [Guild Peluditos](#o-guild-peluditos)
 1. :interrobang: [Guild ROL Gaming](#interrobang-guild-rol-gaming)
@@ -312,7 +312,7 @@ Canal de SLACK: **#pr_read4kids_kidsgld**
 
 
 ## :white_check_mark: Guild Legal
-> Guild que cuenta con la colaboración de Elen (@Lawlesscodelen) aboagada especializada y amante del Open Source. En el canal de Slack (guild-legal) podemos hacerle cualquier tipo de consulta.  
+> Guild que desarrolla proyectos Open Source relacionados con su aspecto legal. Cuenta con la colaboración de Elen (@Lawlesscodelen) aboagada especializada y amante del Open Source. En el canal de Slack (guild-legal) podemos hacerle cualquier tipo de consulta. Acaba de arrancar su primer proyecto, Easy Licenses. 
 
 ### :white_check_mark: Proyecto Easy Licenses
 > Proyecto para crear una aplicación web que facilite a todo el mundo la elección de una licencia FOSS para sus proyectos.
@@ -334,10 +334,13 @@ Líderes:
 > Este es nuestro Guild para vosotr@s que venís por 1ª vez a los Guilds !! Bienvenid@s!! 
 La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mola el ser Guilder y así meteros en proyectos más largos. No importa tu nivel y conocimiento. 👩‍🎤 👨‍🎤Hail 2 the Prospects Guild!! 
 
-### :o: Proyecto Ideas
+Como canal de Slack, **#01-oswguilds**
 
 ### :white_check_mark: Proyecto EventPoints
-- El proyecto EventPoints va a centralizar en un calendario único todos los eventos tecnológicos de interés para OWS. El 'core business' del proyecto son una serie de scrappers en Python que se encargarán de recoger los eventos de interés de diferentes orígenes de datos. Posteriormente mostraremos dichos datos en un calendario con su geolocalización y demás ;)
+> El proyecto EventPoints va a centralizar en un calendario único todos los eventos tecnológicos de interés para la comunidad tecnológica. 
+
+El 'core business' del proyecto son una serie de scrappers en Python que se encargarán de recoger los eventos de interés de diferentes orígenes de datos. Posteriormente mostraremos dichos datos en un calendario con su geolocalización y demás ;)
+
 - Repositorios: 
 	- [Eventpoints-backend](https://github.com/OSWeekends/eventpoints-backend)
 	- [Eventpoints-frontend](https://github.com/OSWeekends/EventPoints)
@@ -362,7 +365,9 @@ La idea es desarrollar proyectos de aprox 3 meses para que comprobéis si os mol
 	- Ricardo García-Duarte (Slack:@RicardoGDM / GitHub:[@rgarciaduarte](https://github.com/rgarciaduarte))
 	- Theba Gomez (Slack:@KoolTheba / GitHub:[@KoolTheba](https://github.com/KoolTheba))
 	- Ulises Gascon (Slack:@ulisesgascon / GitHub:[@UlisesGascon](https://github.com/UlisesGascon))
+
 - Canal de Slack: **#pr_eventpoints_new**
+
 - **Estado: Creando scrappers y primeros componentes de front. Primeros commits y puesta en marcha. Esperando unificación a estilos OSW.**
 
 ## :white_check_mark: Guild Open Hardware
