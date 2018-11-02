@@ -170,7 +170,7 @@ Canal de Slack: #guild_inter_art
 - @rubenmoreno94 Ruben (HW/SW) *desde noviembre únicamente*
 
 
-## :white_check_mark: Guild BlockChain
+## :white_check_mark: Guild Blockchain
 > Este Guild va a desarrollar proyectos con Blockchain como base. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
 ### :interrobang: Proyecto red cooperativa agrícola con BlockChain
