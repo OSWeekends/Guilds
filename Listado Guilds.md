@@ -26,7 +26,7 @@ Este pretende ser un listado sencillo y actualizado de los Guilds y proyectos, a
 Los Guilders van actualizando la info de manera autónoma; si necesitas saber más, encuéntranos en Slack y pregunta! 😋
 
 
-1. :interrobang: [Guild 24](#interrobang-guild-24)
+1. :white_check_mark: [Guild 24](#interrobang-guild-24)
 1. :white_check_mark: [Guild Adalabers](#white_check_mark-guild-adalabers)
 1. :white_check_mark: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo](#o-guild-arte-interactivo) 
@@ -58,12 +58,14 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 - :white_check_mark: `Información correcta`
 - :o: `Informacion desconocida`
 
-## :interrobang: Guild 24
-> El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes!
+## :white_check_mark: Guild 24
+> El súper Guild de los alumn@s del Master de JS de Fictizia que hacen proyectos alucinantes y rescatan otros igual de molones!
 
 **Guild cerrado a l@s alumn@s del Master de JS y Node de Fictizia, aunque siempre puedes preguntar a @UlisesGascon para participar en alguno**
 
-### :interrobang: Proyecto Memezinga
+Canal de Slack: **#guild24**
+
+### :white_check_mark: Proyecto Memezinga
 > El primer generador de MEMES OPEN SOURCE!
 
 [Repo en GitHub](https://github.com/OSWeekends/memezinga)
