@@ -1,4 +1,4 @@
-# Listado de Guilds [Updated 27/10/2018]
+# Listado de Guilds [Updated 02/11/2018]
 
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓 (👉nos encanta leer nuestros orígenes!!)
 
@@ -35,7 +35,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
 1. :white_check_mark: [Guild Data Science](#white_check_mark-guild-data-science)
-1. :interrobang: [Guild Diseño](#interrobang-guild-diseño)
+1. :white_check_mark: [Guild Diseño](#white-check-mark-guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
@@ -228,13 +228,11 @@ Al final de cada hito recopilar un índice de esos pulls para que las siguientes
 ## :interrobang: Guild Cybersecurity
 > Guild que desarrolla proyectos sobre Ciberseguridad.
 
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
-
 Canal de Slack: **#cibersecurity_guild**
 
 Líder: @Kr0n0
 
-### :interrobang: Batimagen
+### :white_check_mark: Batimagen
 - https://github.com/OSWeekends/batimagen
 
 ### :o: forensics-phoenix
@@ -250,8 +248,8 @@ Canal de Slack: **#data_science_guild**
 
 Canal Slack: #pr_datos_formulauc3m
 
-## :interrobang: Guild diseño
-> Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
+## :white_check_mark: Guild diseño
+> Guild dedicado a desarrollar proyectos de diseño y UX para los proyectos de los Guilds de OSW. 👨‍🎨 👩‍🎨
 
 **Si eres diseñador/a web, UXer, ilustrador@...y quieres trabajar con herramientas y para proyectos Open Source, no dejes de formar parte de este Guild!**
 
