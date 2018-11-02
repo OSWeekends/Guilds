@@ -98,7 +98,7 @@ Canal de Slack: **#proyecto-memezinga**
 - https://github.com/OSWeekends/know-your-SNPs
 
 ## :white_check_mark: Guild Adalabers
-> Guild especialmente formado por las compañeras de Adalab de la promoción Clarke 😍 abiertas a colaboración, por supuesto!
+> Guild especialmente formado por las compañeras de Adalab de cualquier promoción para desarrollar proyectos Open Source. Están abiertas a colaboración, por supuesto!
 
 ### :white_check_mark: Proyecto Kienba 🙋🏻
 > Proyecto de desarrollo de una herramienta que en una primera fase ayude a facilitar la solicitud de turnos de preguntas y apoyo en talleres, escuelas, universidades...hasta convertirlo quizá en una herramienta para gamificar la experiencia de l@s asistentes a charlas, conferencias...mirar toda info en el repo de GitHub!
