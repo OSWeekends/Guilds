@@ -136,7 +136,7 @@ Canal de Slack para sumarte y colaborar: **#pry_agriculturasost**
 
 [Repo en GitHub](https://github.com/OSWeekends/arte-interactivo)
 
-Canal de Slack: Guild-inter-art
+Canal de Slack: #guild_inter_art
 
 #### Bases
 - Generar obras interactivas y únicas con la biometría de las personas
