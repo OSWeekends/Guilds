@@ -36,7 +36,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
 1. :white_check_mark: [Guild Data Science](#white_check_mark-guild-data-science)
 1. :white_check_mark: [Guild Diseño](#white-check-mark-guild-diseño)
-1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
+1. :white_check_mark: [Guild Fórmula UC3M](#white-check-mark-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
 1. :white_check_mark: [Guild Legal](#0-guild-legal)
@@ -257,19 +257,19 @@ Canal de Slack: **#design_guild**
 
 Líder: @Tokytome
 
-## :interrobang: Guild Fórmula UC3M
+## :white_check_mark: Guild Fórmula UC3M
 
-### :interrobang: Proyecto de telemetría para coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid
+### :white_check_mark: Proyecto de telemetría para el coche de carreras Fórmula Student, en colaboración con el equipo de ingenier@s de la Univ. Carlos III de Madrid.
 
 > Mira toda la info en su repo!  🥇
 
-[Repo de GitHub](https://github.com/OSWeekends/formula-uc3m)
+[Repo en GitHub](https://github.com/Formula-UC3M)
 
 [Web Fórmula UC3M](http://formulauc3m.com/)
 
-Canal de Slack: **#formula-uc3m-guild**
+Canal de Slack: **#guild-formula-uc3m**
 
-> Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
+> Dentro de este Guild hay otros proyectos como el análisis de los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
 
 ### Proyecto análisis datos coche Fórmula Student UC3M
 
