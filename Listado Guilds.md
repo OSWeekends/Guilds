@@ -38,7 +38,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild Diseño](#white-check-mark-guild-diseño)
 1. :white_check_mark: [Guild Fórmula UC3M](#white-check-mark-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
-1. :white_check_mark: [Guild de ideas](#guild-de-ideas)
+1. :white_check_mark: [Guild Ideas](#white_check_mark-guild-ideas)
 1. :white_check_mark: [Guild Kids](#interrobang-guild-kids)
 1. :white_check_mark: [Guild Legal](#white_check_mark-guild-legal)
 1. :white_check_mark: [Guild Newbies](#white_check_mark-guild-newbies)
@@ -288,7 +288,7 @@ Canal Slack: #pr_datos_formulauc3m
  
 NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
-### :white_check_mark: Guild de ideas
+### :white_check_mark: Guild Ideas
 > Este guild tiene dos objetivos: por un lado, pretende formar a los perfiles más junior de OSW y por otro, generar una aplicación web para la gestión de las propuestas que se dan dentro de esta comunidad.
 
 Estado: proyecto por empezar. Sus miembros se están formando.
@@ -632,7 +632,7 @@ Necesidades de colaboración: no, pero incorporación libre para próximas versi
 	- [GoblinDBRocks/Art](https://github.com/GoblinDBRocks/Art), Branding, Art...
 
 ## :white_check_mark: MetaGuild
-> Guild del grupo de trabajo que gestiona, ayuda y facilita el desarollo de los otros Guilds, infraestructura...
+> Guild del grupo de trabajo que gestiona, ayuda y facilita el desarrollo de los otros Guilds, infraestructura...
 
 Líderes:
 - @KoolTheba
