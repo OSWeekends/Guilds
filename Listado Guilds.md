@@ -34,7 +34,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild Calidad de Empleo](#white_check_mark-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
-1. :interrobang: [Guild Data Science](#interrobang-guild-data-science)
+1. :white_check_mark: [Guild Data Science](#white_check_mark-guild-data-science)
 1. :interrobang: [Guild Diseño](#interrobang-guild-diseño)
 1. :interrobang: [Guild Fórmula UC3M](#interrobang-guild-fórmula-uc3m)
 1. :white_check_mark: [Guild Hacker Space](#white_check_mark-guild-hacker-space)
@@ -226,7 +226,7 @@ Al final de cada hito recopilar un índice de esos pulls para que las siguientes
 
 
 ## :interrobang: Guild Cybersecurity
-> Guild que quiere desarrollar proyectos sobre Ciberseguridad.
+> Guild que desarrolla proyectos sobre Ciberseguridad.
 
 **Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
 
@@ -241,13 +241,14 @@ Líder: @Kr0n0
 - https://github.com/OSWeekends/forensics-phoenix
 
 
-## :interrobang: Guild Data Science
-> Guild que quiere desarrollar proyectos dentro del mundo de los datos abietos.
-
-**Proyectos por definir; entra en Slack y propón o empuja las ideas que hay! 🤩**
+## :white_check_mark: Guild Data Science
+> Guild que desarrolla proyectos dentro del mundo de los datos abiertos.
 
 Canal de Slack: **#data_science_guild**
 
+### Proyecto análisis datos coche Fórmula Student UC3M: mirar org. y Guild de Fórmula UC3M
+
+Canal Slack: #pr_datos_formulauc3m
 
 ## :interrobang: Guild diseño
 > Guild dedicado a desarrollar proyectos de diseño para los Guilds de OSW y para muchos otros proyectos más. Ahora mismo el proyecto al que están dedicad@s es al diseñar la web de los Guilds y los logos de cada equipo! 👨‍🎨 👩‍🎨
@@ -272,6 +273,9 @@ Canal de Slack: **#formula-uc3m-guild**
 
 > Dentro de este Guild hay otros proyectos, sobre todo el de mejora de su web y la creación de una web para ver los datos durante la competición. Pregunta en su canal de Slack cómo y en qué participar! 🏎
 
+### Proyecto análisis datos coche Fórmula Student UC3M
+
+Canal Slack: #pr_datos_formulauc3m
 
 ## :white_check_mark: Guild Hacker Space: Proyecto en fase inicial para montar un espacio físico donde materializar nuestros proyectos.
  - Descripción finalidad Guild: Organizar y mantener el espacio. 
