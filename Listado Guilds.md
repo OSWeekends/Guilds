@@ -31,7 +31,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo y Programación Creativa](#white_check_mark-guild-arte-interactivo-y-programación-creativa) 
 1. :white_check_mark: [Guild Blockchain](#white_check_mark-guild-blockchain)
-1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
+1. :white_check_mark: [Guild Calidad de Empleo](#white_check_mark-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
 1. :interrobang: [Guild Data Science](#interrobang-guild-data-science)
@@ -179,7 +179,10 @@ Canal de Slack: #guild_inter_art
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
-## :o: Guild Calidad de Empleo
+## :white_check_mark: Guild Calidad de Empleo
+> Guild que quiere desarrollar proyectos que mejoren la calidad de la búsqueda y del empleo en el sector de la tecnología. 
+
+Canal de Slack: #guild_calidad_empleo
 
 ## :interrobang: Guild cRUSTáceos
 > En colaboración con el nuevo [MeetUp MadRust](https://www.meetup.com/es-ES/MadRust/) y OSWeekends. Pretendemos crear proyectos para enseñar, fomentar y difundir el uso del lenguaje RUST. El proyecto Educativo está aún por arrancar.
