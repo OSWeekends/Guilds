@@ -30,7 +30,7 @@ Los Guilders van actualizando la info de manera autónoma; si necesitas saber m�
 1. :white_check_mark: [Guild Adalabers](#white_check_mark-guild-adalabers)
 1. :white_check_mark: [Guild de Agricultura y Sostenibilidad](#interrobang-guild-de-agricultura-y-sostenibilidad)
 1. :white_check_mark: [Guild Arte Interactivo y Programación Creativa](#white_check_mark-guild-arte-interactivo-y-programación-creativa) 
-1. :interrobang: [Guild BlockChain](#interrobang-guild-blockchain)
+1. :white_check_mark: [Guild BlockChain](#interrobang-guild-blockchain)
 1. :o: [Guild Calidad de Empleo](#o-guild-calidad-de-empleo)
 1. :interrobang: [Guild cRUSTáceos](#interrobang-guild-crustáceos)
 1. :interrobang: [Guild Cybersecurity](#interrobang-guild-cybersecurity)
@@ -170,8 +170,8 @@ Canal de Slack: #guild_inter_art
 - @rubenmoreno94 Ruben (HW/SW) *desde noviembre únicamente*
 
 
-## :interrobang: Guild BlockChain
-> Este Guild va a desarrollar proyectos con Blockchain como base de todo. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
+## :white_check_mark: Guild BlockChain
+> Este Guild va a desarrollar proyectos con Blockchain como base. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
 ### :interrobang: Proyecto red cooperativa agrícola con BlockChain
 
