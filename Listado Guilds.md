@@ -548,6 +548,8 @@ Prevista para: Nov 2018.
 No se necesita colaboración 👺
 
 ## :white_check_mark: Guild Welcome
+> Este Guild, a parte de haber finalizado el proyecto de la web Welcome to OSW, se encarga de acoger a las personas que vienen por 1ª vez a la comunidad, así como de recoger bajo un manual todo lo que necesitas saber para ser y siendo parte de OSW.  
+
 ### :white_check_mark: Proyecto web Welcome OSWeekends (finalizado)
 
 [Welcome to OSW!](http://welcome.osweekends.com/)
