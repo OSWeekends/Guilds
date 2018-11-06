@@ -174,7 +174,7 @@ Canal de Slack: #guild_inter_art
 ## :white_check_mark: Guild Blockchain
 > Este Guild va a desarrollar proyectos con Blockchain como base. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
-### white_check_mark: Proyecto financiación de comunidades con Hyperledger (por actualizar el nombre)
+### :white_check_mark: Proyecto financiación de comunidades con Hyperledger (por actualizar el nombre)
 
 Somos un equipo de 7 personas permanentes y una octava colaborando. Hemos instaldo toda la plataforma de Hyperledgers-Fabric y ahora estamos estudiando la arquitectura que utilizaremos, cuestiones como infraestructura adecuada para el despliegue de los nodos Hyperledger-Fabric y lenguajes de programación adecuados para Dapps (aplicaciones descentralizadas) e interfaz de control. 
 
