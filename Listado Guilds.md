@@ -1,4 +1,4 @@
-# Listado de Guilds [Updated 02/11/2018]
+# Listado de Guilds [Updated 06/11/2018]
 
 > Después de un súper Hackaton de 3 días en el que el Domingo 18/03 tuvimos más de 40 Guilders trabajando en directo en sus proyectos, surgieron muchos nuevos y otros que están en gestación. 🤓 (👉nos encanta leer nuestros orígenes!!)
 
@@ -174,9 +174,21 @@ Canal de Slack: #guild_inter_art
 ## :white_check_mark: Guild Blockchain
 > Este Guild va a desarrollar proyectos con Blockchain como base. Guild colaborativo entre los compañer@s de BlockMad, [Haskell Users Group](https://www.meetup.com/es-ES/Haskell-MAD/) y OSWeekends 🤓
 
-### :interrobang: Proyecto red cooperativa agrícola con BlockChain
+### white_check_mark: Proyecto financiación de comunidades con Hyperledger (por actualizar el nombre)
 
-**Estar pendientes de la info, es un proyecto por arrancar!**
+Somos un equipo de 7 personas permanentes y una octava colaborando. Hemos instaldo toda la plataforma de Hyperledgers-Fabric y ahora estamos estudiando la arquitectura que utilizaremos, cuestiones como infraestructura adecuada para el despliegue de los nodos Hyperledger-Fabric y lenguajes de programación adecuados para Dapps (aplicaciones descentralizadas) e interfaz de control. 
+
+Paralelamente estamos escribiendo el "Yellow Paper" del proyecto. 
+
+Nos falta abordar el diseño de un logo y nombre para el proyecto. 
+
+Ya hemos establecido la estructura organizativa del grupo de desarrollo: Canal Telegram para las comunicaciones y Git-GitLab como repositorio de código y material. 
+
+Estamos finalizando la traducción al Español de un curso online sobre Hyperledger y sus tres frameworks. 
+
+Regularmente nos reunimos dos veces a la semana para sesiones de trabajo. 
+
+Los objetivos son tener en Enero 2019 un POC (prueba de concepto) implementada, el Yellow Paper y una presentación con dispositivas, para presentar el proyecto en sociedad.
 
 **Si quieres unirte, contacta a través del canal de Slack: #blockchain_guild**
 
