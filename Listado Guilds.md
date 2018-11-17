@@ -300,7 +300,7 @@ Canal Slack: #pr_datos_formulauc3m
  
 NOTAS EXTRA: En el proximo evento se darán más noticias y novedades, puesto que aun estamos en proceso de formalizacíon para conseguir el espacio. La idea es hacer una mini presentación este día ya y presentar diferentes roles a cubrir en busca de voluntari@s. Te Necesitamos voluntari@!!!!!!!! ^.^
 
-### :white_check_mark: Guild Ideas
+## :white_check_mark: Guild Ideas
 > Este guild tiene dos objetivos: por un lado, pretende formar a los perfiles más junior de OSW y por otro, generar una aplicación web para la gestión de las propuestas que se dan dentro de esta comunidad.
 
 Estado: proyecto por empezar. Sus miembros se están formando.
