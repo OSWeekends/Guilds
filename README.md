@@ -1,5 +1,5 @@
 # Guilds
-> Queremos que el mundo sea más abierto y colaborativo a traves de la cultura libre. Por ello empoderamos a las personas y los equipos haciendo más facil la creacion colectiva, gracias a un sistema de formación y desarrollo para guilds.
+> Queremos que el mundo sea más abierto y colaborativo a traves de la cultura libre. Por ello empoderamos a las personas y los equipos haciendo más facil la creación colectiva, gracias a un sistema de formación y desarrollo para guilds.
 
 OSW es una organización que quiere hacer realidad proyectos Open Source de todo tipo con personas del mundo de la tecnología y otras áreas. Para ello fomentamos la creación de Guilds, que son equipos especializados que trabajan en torno a proyectos para lograr llevar a cabo la idea de hacer un mundo más libre. 
 
